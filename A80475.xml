@@ -1,0 +1,799 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The deputy divinity or, inferiour deity and subordinate God in the world, Conscience, I say, 1 Cor.10.29. A discourse of conscience, being the substance of two sermons, delivered: one of them at the Temple-church in London: the other in the countrey. / By Henry Carpenter, Minister of the gospel at Steeple-Ashton in Wilts.</title>
+            <author>Carpenter, Henry, 1605 or 6-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 67 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80475</idno>
+            <idno type="STC">Wing C614</idno>
+            <idno type="STC">Thomason E1711_1</idno>
+            <idno type="STC">ESTC R209576</idno>
+            <idno type="EEBO-CITATION">99868444</idno>
+            <idno type="PROQUEST">99868444</idno>
+            <idno type="VID">170295</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170295)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 213:E1711[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The deputy divinity or, inferiour deity and subordinate God in the world, Conscience, I say, 1 Cor.10.29. A discourse of conscience, being the substance of two sermons, delivered: one of them at the Temple-church in London: the other in the countrey. / By Henry Carpenter, Minister of the gospel at Steeple-Ashton in Wilts.</title>
+                  <author>Carpenter, Henry, 1605 or 6-1662.</author>
+               </titleStmt>
+               <extent>[12], 120 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. Webb, &amp; W. Grantham at the Bear over-against the little North-door in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 24"; "June".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 1st X, 29 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170295:1" rendition="simple:additions"/>
+            <p>THE Deputy Divinity <hi>OR,</hi> Inferiour Deity AND Subordinate God in the World, <hi>Conſcience, I ſay,</hi> 1 Cor. 10.29. A <hi>Diſcourſe</hi> of <hi>Conſcience,</hi> Being the ſubſtance of Two Sermons, delivered: One of them at the <hi>Temple-church</hi> in <hi>London:</hi> The other in the Countrey. By HENRY CARPENTER, Miniſter of the Goſpel at <hi>Steeple-Aſhton</hi> in <hi>Wilts.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>N. Webb,</hi> &amp; <hi>W. Grantham</hi> at the Bear over-againſt the little North-door in <hi>Pauls</hi> Church-yard, 1657.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170295:2"/>
+            <pb facs="tcp:170295:2"/>
+            <head>To the Truly RELIGIOUS AND Right Noble Lady, THE LADY <hi>Dorothy Pakington:</hi> The Promiſes of both lives.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>MY Gratefull Purpoſes long ſince engaged to your Ladyſhips ſervice, were never yet ſo Advantaged by op<g ref="char:EOLhyphen"/>portunity, as to make
+<pb facs="tcp:170295:3"/>the World the wit<g ref="char:EOLhyphen"/>neſſe of their ſince<g ref="char:EOLhyphen"/>rity.</p>
+            <p>Difficult and per<g ref="char:EOLhyphen"/>plexed times, occaſi<g ref="char:EOLhyphen"/>on too much neglect of duty, and make place for pardon. This little Book, and ſmall Comment upon one of the greateſt Books in the world, (where<g ref="char:EOLhyphen"/>of I humbly preſent you with the Dedi<g ref="char:EOLhyphen"/>cation) hath nothing to commend it up ſo
+<pb facs="tcp:170295:3"/>high as your hands, but the weight of the Subject, and the ſim<g ref="char:EOLhyphen"/>ple integrity of the Author, obliged not more to the memory of your dear Father (my very good Lord and Patron, of unde<g ref="char:EOLhyphen"/>filed hands) then to your own merits and excellencies, whereof I had once the ho<g ref="char:EOLhyphen"/>nour to be an unwor<g ref="char:EOLhyphen"/>thy Servant, and have ſtill the duty to be an
+<pb facs="tcp:170295:4"/>obſerver and admi<g ref="char:EOLhyphen"/>rer.</p>
+            <p>As for my ſelf I muſt know who I am, but for this thing here in hand, I may wiſh it laid to heart, for a Jewel is a Jewel though wrapt up in plain leather, or in brown paper.</p>
+            <p>Now that the God whom you ſerve in your ſpirit and Fami<g ref="char:EOLhyphen"/>ly, would in bleſſing
+<pb facs="tcp:170295:4"/>bleſſe you in all your Relations; and that the ſame God who hath ſo begun to glorifie you in thoſe graces wherewith he hath enriched your ſoule, (making you an eminent and un<g ref="char:EOLhyphen"/>feigned example of Goodneſſe, even in this Age) will alſo Perfect and Crowne theſe graces with Glory: Is the
+<pb facs="tcp:170295:5"/>Prayer of,</p>
+            <closer>
+               <salute>Madam, </salute>
+               <signed>Your Ladiſhips Humble, Faithful Servant, For Jeſus and Conſcience-ſake. <hi>H. CARPENTER.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170295:5"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>THat which one ſpake of his lear<g ref="char:EOLhyphen"/>ned Tractates,
+<note place="margin">
+                  <hi>Juſtus Lipſius Politicks B.</hi> King on <hi>Jonas. Nihil egi<g ref="char:EOLhyphen"/>ſine The<g ref="char:EOLhyphen"/>ſeis. Et nihil no<g ref="char:EOLhyphen"/>ſtrum &amp; omnia.</hi>
+               </note> and a<g ref="char:EOLhyphen"/>nother (from him) of his rich Lectures, may the leſſe miſ-become me of this plain poor piece of mine, <hi>That I have done little herein without good guides.</hi> And though in one ſenſe all may be mine
+<pb facs="tcp:170295:6"/>own; yet in another, not much more then no<g ref="char:EOLhyphen"/>thing.] For where I liked the waters of o<g ref="char:EOLhyphen"/>ther mens wells I drank deep, and elſwhere I did but ſip: And (as one obſerves of <hi>Ruth</hi>) I have ſometime but ſtood to glean,
+<note place="margin">Rab. Solom.</note> and ſometime ſitten down.</p>
+            <p>Here it is (ſuch as it is) preſented to thy good acceptance; if here and there it give thee any new leſſon,
+<pb facs="tcp:170295:6"/>bleſſe God for thy In<g ref="char:EOLhyphen"/>ſtructor; And where it doth but rub up the old, deſpiſe not thy Re<g ref="char:EOLhyphen"/>membrancer: who hurts none by theſe but him<g ref="char:EOLhyphen"/>ſelf, in the danger of the attempt, changing Tongue into Pen, and eares into eyes; (The ſeverer of the two.) But that which diſ<g ref="char:EOLhyphen"/>courageth many provo<g ref="char:EOLhyphen"/>keth me, of purpoſe to ſhew how hardy I dare ſeem, rather then be un<g ref="char:EOLhyphen"/>gratefull
+<pb facs="tcp:170295:7"/>to thoſe my many friends, who have required this at my hands, for thy good, which if thou finde, re<g ref="char:EOLhyphen"/>member God in thy praiſe, and me in thy prayers.</p>
+            <closer>
+               <signed>H. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:170295:7"/>
+            <head>THE Deputy-Divinity OR, Inferiour Deity AND Subordinate God in the world.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 Cor. 10.29.</hi>
+                  </bibl>
+                  <p>Conſcience, I ſay.</p>
+               </q>
+            </epigraph>
+            <p>WHAT one ſaid well of Lawes [That many good Laws were made, but there wanted one Law to make us put all
+<pb n="2" facs="tcp:170295:8"/>thoſe Laws in execution] The like may we ſay of Books and Sermons, [Ma<g ref="char:EOLhyphen"/>ny good Books are writ<g ref="char:EOLhyphen"/>ten, and many good Ser<g ref="char:EOLhyphen"/>mons preached, but there wanteth one Book, one Sermon to make us put all the other in practiſe, and that were good in<g ref="char:EOLhyphen"/>deed, worthy of the reading and hearing.</p>
+            <p>And I know none more likely, through God, to do this thing, than upon this ſubject of <hi>Conſcience,</hi> (I may commend the Text, though not the Sermon) which being good, (as one ſaid of Juſtice) is a Synopſis and
+<pb n="3" facs="tcp:170295:8"/>Epitomy of all vertues, a medicine to cure all ſoul-diſeaſes, and to de<g ref="char:EOLhyphen"/>ject all book-ſurfeitings.</p>
+            <p>Conſcience it ſelf is a Book,
+<note place="margin">Rev. 20.12.</note> one of thoſe Books to be opened at the laſt day, to which all men ſhal be put, and by which they ſhall be tried and judged, <hi>(viz.)</hi>
+            </p>
+            <list>
+               <item>The Book of the Creatures,</item>
+               <item>The Book of the Scriptures,</item>
+               <item>The Book of the Conſcience.</item>
+            </list>
+            <p>A Book of Books, for the Informing and Reform<g ref="char:EOLhyphen"/>ing whereof all other books ſhould be Printed, and Sermons Preached; for indeed what ſhould all Divinity-books, and
+<pb n="4" facs="tcp:170295:9"/>Law-books be but gloſſes and Comments upon this Text?
+<note place="margin">Maledicta Gloſſa quae cor<g ref="char:EOLhyphen"/>rumpit Textum.</note> And curſed be that Gloſs which doth corrupt the Text, <hi>viz.</hi> Goe againſt Conſcience. The wiſe man makes as if all other books and ſtudies without this,
+<note place="margin">Eccle. 12.12, 13.</note> and in compariſon of this were vain and endleſſe [of making many books there is no end] True (ſaith the Gloſs upon it) [Of books that are writ<g ref="char:EOLhyphen"/>ten to no end.]</p>
+            <p>There are great out<g ref="char:EOLhyphen"/>cries made againſt places, times, and the World, for being naught and bad: But alas! All places
+<pb n="5" facs="tcp:170295:9"/>naturally are equal, being but ſeveral parcels of the ſame common Earth and Air; and all times natu<g ref="char:EOLhyphen"/>rally are equal, being di<g ref="char:EOLhyphen"/>ſtinguiſhed by the ſame conſtant and uniforme motion of the Heavens; what aile places, or times, or the world? They were all good, if men were ſo; and men were all good, if their Conſciences were ſo; nothing maketh bad times, but bad men; and nothing maketh bad men but bad Conſciences; Ill Conſciences are the ſprings and pipes from whence come all the evils that ſpoyl places, times,
+<note place="margin">Mat. 15.18, 19.</note> and world.</p>
+            <pb n="6" facs="tcp:170295:10"/>
+            <p>And I know no remedy to that of <hi>Eliſha</hi>'s curing the naughty waters of <hi>Jerico,</hi> for the cry there was for ſound much the ſame [The waters are naught,
+<note place="margin">2 King. 2.19, 21, 22.</note> &amp;c.] [He caſt ſalt into the ſpring, and healed the waters.]</p>
+            <p>The water-ſpring of all our actions (good or evil) is Conſcience;
+<note place="margin">Prov. 4.23.</note> and as mens Conſciences are, ſo are their actions; as the ſpring is, ſo is the iſſue; [The iſſues of life and death are out of the heart and Conſcience] The ſpring of all, [O that God would caſt ſalt into the ſpring] heale and
+<pb n="7" facs="tcp:170295:10"/>mend Conſcience, and all will be mended; For good Conſciences make good men; and good men will make good places, times, and World: <hi>Conſcience, I ſay.</hi>
+            </p>
+            <p>Here I find Conſcience as in common and in ge<g ref="char:EOLhyphen"/>neral, therefore ſhall not trouble you with parti<g ref="char:EOLhyphen"/>cular context here, where is intended no longer ſtay than while we have to do with Conſcience in gene<g ref="char:EOLhyphen"/>rall: <hi>[Conſcience, I ſay.]</hi>
+            </p>
+            <p>Wherein I propoſe unto my ſelf and your atten<g ref="char:EOLhyphen"/>tion (for order ſake) this Method.</p>
+            <p n="1">1. <hi>The Truth of it;</hi> That
+<pb n="8" facs="tcp:170295:11"/>there is ſuch a thing,
+<note place="margin">Though the Text be not divided by parts; Yet the Diſcourſe ſhould be limited by bounds.</note> which is ſo called.</p>
+            <p n="2">2. <hi>The Nature of it,</hi> What this thing is which is ſo called.</p>
+            <p n="3">3. <hi>The Original and con<g ref="char:EOLhyphen"/>dition,</hi> Whence and what manner of thing it is, ſo called.</p>
+            <p n="4">4. <hi>The place and Situa<g ref="char:EOLhyphen"/>tion of it,</hi> Where this thing reſides which is ſo called.</p>
+            <p n="5">5. <hi>The ſubject of it,</hi> whoſe and with whom this thing it, which is ſo called.</p>
+            <p n="6">6. <hi>The ground and reaſon,</hi> Why there is at all ſuch a thing, which is ſo called. <hi>Conſcience, I ſay.</hi>
+            </p>
+            <div n="1" type="part">
+               <pb n="9" facs="tcp:170295:11"/>
+               <head>1. <hi>The Truth of it.</hi>
+               </head>
+               <p>That there is ſuch a thing in the general which is ſo called,
+<note place="margin">1. Quod ſit.</note> ſeemeth paſt all queſtion, not only by the writings of holy men of God, inſpired by the holy Ghoſt,
+<note place="margin">Dr. <hi>Ham<g ref="char:EOLhyphen"/>mond.</hi>
+                  </note> both in the New Teſtament, two and thirty times under the particular expreſſe term of <hi>Conſcience,</hi> (ſo frequent among the Evangeliſts and Apoſtles) and in the Old Teſtament (though but once by the Greek Tranſlators under that notion,
+<note place="margin">Eccle. 10.20. Eccleſ. 7.22. Dan. 7.</note> yet) often under the general terms of
+<pb n="10" facs="tcp:170295:12"/>
+                  <hi>Heart,</hi>
+                  <note place="margin">Rom. 2.15. Rom. 8.16. 1 Cor. 2.11. 1 John 3.21.</note> 
+                  <hi>Soul, Spirit,</hi> and <hi>Thought</hi>] and ſo the He<g ref="char:EOLhyphen"/>brew ever; you can hard<g ref="char:EOLhyphen"/>ly find the term <hi>Conſci<g ref="char:EOLhyphen"/>ence</hi> with them, but com<g ref="char:EOLhyphen"/>monly one of theſe: As St. <hi>John,</hi> who ſo much abounded with Hebrew<g ref="char:EOLhyphen"/>iſmes, <hi>[If our Heart con<g ref="char:EOLhyphen"/>demn us, &amp;c.]</hi> meaning our <hi>Conſcience.</hi> Thus not only upon ſacred Re<g ref="char:EOLhyphen"/>cord, but alſo by human writers, Their Paedago<g ref="char:EOLhyphen"/>gus, their Genius, their Guardant Angel, and the like, meaning <hi>Conſcience.</hi>
+               </p>
+               <p>Yea, by very Heathen themſelves, in whom this light of Law and Nature is conſerved;
+<pb n="11" facs="tcp:170295:12"/>there being no People ſo barbarous, but that part of <hi>Conſcience</hi> which is called <hi>Syntereſis,</hi> keepeth in them ſome ſparks of the knowledge of good and evil, which the moſt prophane man that ever was cannot (though he would) get utterly ex<g ref="char:EOLhyphen"/>tinct and ſuffocate.</p>
+               <p>The Dictates of Con<g ref="char:EOLhyphen"/>ſcience have apparent impreſſions in the moſt Miſcreants on Earth,
+<note place="margin">Dictamen Conſcien<g ref="char:EOLhyphen"/>tiae.</note> in whom Nature it ſelfe ſhrinks and ſighs when it hath done ill; joyes and elevates it ſelf when it hath done well. And what is all this but the
+<pb n="12" facs="tcp:170295:13"/>act of Conſc. their Ma<g ref="char:EOLhyphen"/>ſter-Phyloſophers make the ſoul a building, conſi<g ref="char:EOLhyphen"/>ſting of many rooms, ſome higher, ſome lower, whereof the higheſt is the <hi>
+                     <g ref="char:V">Ʋ</g>nderſtanding;</hi> and this again is either <hi>Speculative,</hi> containing ſome general Notions and Principles of Truth: Or <hi>Practical,</hi> containing the like Prin<g ref="char:EOLhyphen"/>ciples and Axiomes of good things, which at firſt were and ſtill are (in part) left in the ſoul of man; and this even in their judgement is called <hi>Conſcience.</hi>
+               </p>
+               <p>And now if the Teſti<g ref="char:EOLhyphen"/>mony of an Adverſary
+<pb n="13" facs="tcp:170295:13"/>be ſtrong for an Ad<g ref="char:EOLhyphen"/>verſary, Why may not this Theological Truth get ſome advantage by conſent from Heathens, in whom ſo much light of Nature and Law is re<g ref="char:EOLhyphen"/>ſerved? Who ſhall que<g ref="char:EOLhyphen"/>ſtion a Deity, if the very Heathens acknowledge it? and who can deny a <hi>Conſcience,</hi> if the very Pagans confeſſe it?</p>
+               <p>Nay by unreaſonable creatures themſelves;
+<note place="margin">An irra<g ref="char:EOLhyphen"/>tional ani<g ref="char:EOLhyphen"/>mal Con<g ref="char:EOLhyphen"/>ſcience. Dr. <hi>Ham<g ref="char:EOLhyphen"/>mond.</hi>
+                  </note> for there is ſome ſhadow of this in a beaſt, as there is of reaſon, (ſome ſhadow I ſay) whoſe ſecret in<g ref="char:EOLhyphen"/>ſtinct of nature, (which anſwers to the Heathens
+<pb n="14" facs="tcp:170295:14"/>Dictamen,
+<note place="margin">Jer. 8.7.</note> whereby [the Stork, Turtle, Crane, and Swallow, &amp;c] are incli<g ref="char:EOLhyphen"/>ned to do that which up<g ref="char:EOLhyphen"/>braids man) is to them in place of that which is called <hi>Conſcience</hi> to man; <hi>And thus for the Truth of it,</hi> That there is ſuch a thing which is ſo called.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2.
+<note place="margin">2. Quid ſit.</note> 
+                  <hi>The nature of it.</hi>
+               </head>
+               <p>What in the general this thing is which is ſo called <hi>Conſcience;</hi> for we may with the <hi>Iſraelites</hi> aſk [what is it?]
+<note place="margin">Exod. 16.15.</note> being a kind of Manna too: But let no man aſk here of <hi>Conſcience,</hi> as <hi>Pilate</hi> did
+<pb n="5" facs="tcp:170295:14"/>there of Truth,
+<note place="margin">John 18.38.</note> [what is it? and go out] but ſtay and attend a while.</p>
+               <p>For it is <hi>a word</hi> of great Latitude, and of Infinit Diſpute; and it is <hi>a thing</hi> much talked of, little known, and leſs practiſed then underſtood;
+<note place="margin">Mllaem ut me repre<g ref="char:EOLhyphen"/>hendant Gramm<g ref="char:EOLhyphen"/>tici, quam ut non in<g ref="char:EOLhyphen"/>telligant populi.</note> There<g ref="char:EOLhyphen"/>fore herein the beſt learn<g ref="char:EOLhyphen"/>ing is to be moſt plain; and ſo I may be profita<g ref="char:EOLhyphen"/>ble, I care the leſs to ſeem artificial, in regard of that we have in hand: <hi>Conſci<g ref="char:EOLhyphen"/>ence, I ſay.</hi>
+               </p>
+               <p>And note we now both Name &amp; Thing.</p>
+               <p>For things as well as men ſhould be known by their name.</p>
+               <pb n="16" facs="tcp:170295:15"/>
+               <p>
+                  <hi>The name of it;</hi> which according to the Etymo<g ref="char:EOLhyphen"/>logy of the word,
+<note place="margin">1. Quid no<g ref="char:EOLhyphen"/>minis.</note> both in Greek and Latine is <hi>A joynt knowing or ſeeing to<g ref="char:EOLhyphen"/>gether:</hi>
+                  <note place="margin">Syneideſis Conſcien<g ref="char:EOLhyphen"/>tia.</note> Diverſly to be ta<g ref="char:EOLhyphen"/>ken-<hi>ſubjectively</hi> (if I may ſo ſpeak) anothers know<g ref="char:EOLhyphen"/>ledge joyned with ours; the joynt knowledge of two perſons together, two Secretaries, Records and witneſſes; one on Earth, the other in Hea<g ref="char:EOLhyphen"/>ven; <hi>Job</hi>'s (witneſſe in Heaven,
+<note place="margin">Job 16.19.</note> and Record on high) ſo that man can know nothing himſelfe alone; there muſt be ano<g ref="char:EOLhyphen"/>ther beſides man's ſelfe, and this other is <hi>God:</hi> And
+<pb n="17" facs="tcp:170295:15"/>therefore God and man are ſo joyned together in Conſcience,
+<note place="margin">1 Cor. 2.11. 1 John 3.20. Rom. 9.1.</note> which God hath deputed to give witnes and ſentence with him and before him; mans joynt knowledge with God's: <hi>Conſcience, I ſay. — Objectively;</hi> of one thing and another; the joynt knowledge of two things together; <hi>A Rule and an Act at once; Science</hi> is of one ſimple object; <hi>Conſcience</hi> is of two laid together, and then with one Act of the intellect apprehended joyntly; whence (likely) it came by the name of <hi>Conſcience, I ſay.</hi>
+               </p>
+               <pb n="18" facs="tcp:170295:16"/>
+               <p>— <hi>Actively</hi> alſo,
+<note place="margin">Scientia cum alia Bernard.</note> two joynt knowledges toge<g ref="char:EOLhyphen"/>ther, both one and ano<g ref="char:EOLhyphen"/>ther, &amp;c.</p>
+               <p>And thus for the name, <hi>Conſcience, I ſay.</hi>
+               </p>
+               <p>
+                  <hi>The thing and nature of it</hi> (though better felt than deſcribed,
+<note place="margin">2. Quid Rei.</note> yet) may be thus conceived: [Con<g ref="char:EOLhyphen"/>ſcience is a Divine thing, a ſtanding power in the ſoul of Man; there ſet and appointed by God to take knowledge and give notice of its ſpiritu<g ref="char:EOLhyphen"/>al ſtate and condition, in what terms it ſtandeth with God] Or thus, Con<g ref="char:EOLhyphen"/>ſcience is the judgement of man upon himſelf as
+<pb n="19" facs="tcp:170295:16"/>he is ſubject to the judge<g ref="char:EOLhyphen"/>ment of God.</p>
+               <p>[Judge I pray betwixt me and my vineyard] [Judge our ſelves] that is, <hi>In our Conſcience.</hi>
+                  <note place="margin">Iſa. 5.3.</note>
+                  <note place="margin">1 Cor. 11.31.</note> Di<g ref="char:EOLhyphen"/>vines do uſually expreſſe it by a practical ſyllo<g ref="char:EOLhyphen"/>giſm (as they call it) <hi>Pro and Con:</hi> Whereof
+<list>
+                     <item>—<hi>The Major</hi> and propo<g ref="char:EOLhyphen"/>ſition is made by <hi>Synte<g ref="char:EOLhyphen"/>reſis;</hi> that is, ſome know<g ref="char:EOLhyphen"/>ledge of a Rule (what we ſhould do) in the word.</item>
+                     <item>—<hi>The Minor</hi> and aſſump<g ref="char:EOLhyphen"/>tion, is made by <hi>Syneide<g ref="char:EOLhyphen"/>ſis;</hi> that is, the knowledge of ſome Act in life, what we have done.</item>
+                     <pb n="20" facs="tcp:170295:17"/>
+                     <item>—<hi>The Concluſion</hi> by the act and office of Conſci<g ref="char:EOLhyphen"/>ence, with us or againſt us, excuſing or accuſing, abſolving or condemn<g ref="char:EOLhyphen"/>ing, comforting or tor<g ref="char:EOLhyphen"/>menting. As for inſtance.</item>
+                     <item>— <hi>[To be carnally minded is death.]</hi>
+                        <note place="margin">Rom. 8.6.</note>
+                     </item>
+                     <item>—But I am carnally min<g ref="char:EOLhyphen"/>ded.-Therefore I am in a ſtate of death. And ſo on the contrary;</item>
+                     <item>— <hi>As many as are led by the Spirit of God,</hi>
+                        <note place="margin">Rom. 8.4.</note> 
+                        <hi>they are the Sons of God:</hi> this is from knowledge of the word of God.</item>
+                     <item>—But I am led by the Spirit of God; this is from knowledge of a mans heart and life.</item>
+                     <pb n="21" facs="tcp:170295:17"/>
+                     <item>—Therefore I am the child of God.</item>
+                  </list>
+               </p>
+               <p>Thus Conſcience is very rational and logical; it can hold and urge an argument well in right mood and figure; though Scholars only are artifi<g ref="char:EOLhyphen"/>cial, yet Conſcience in<g ref="char:EOLhyphen"/>lightened is a good natu<g ref="char:EOLhyphen"/>ral Logitian.</p>
+               <p>As the Apoſtle told the Chriſtians at <hi>Rome</hi> (who were ſcarce ever at <hi>A<g ref="char:EOLhyphen"/>thens</hi>) that they had Lo<g ref="char:EOLhyphen"/>gick enough to argue themſelves [Dead unto ſin, and alive unto God,
+<note place="margin">Rom. 6.11.</note> through Jeſus Chriſt our Lord] The original word means thus, [Exerciſe ſo
+<pb n="22" facs="tcp:170295:18"/>much Logick in your ſelves, and like good Lo<g ref="char:EOLhyphen"/>gitians prove your ſelves, &amp;c.] And thus for the nature of it in general, what this thing is which is ſo called.</p>
+            </div>
+            <div n="3" type="part">
+               <head>3.
+<note place="margin">3. Quale ſit.</note> 
+                  <hi>The original Quality and condition of it in general.</hi>
+               </head>
+               <p>Whence and what manner of thing it is; Conſcience is <hi>of God</hi> (and things only excellent are ſo termed) <hi>of God,</hi>
+                  <note place="margin">Pſal. 36.6. Pſal. 51.17.</note> I ſay; A ſpiritual thing, very ſacred and divine, much like God, as in other re<g ref="char:EOLhyphen"/>ſpects, ſo in this, not eaſily
+<pb n="23" facs="tcp:170295:18"/>comprehended: A ſub<g ref="char:EOLhyphen"/>ordinate God.</p>
+               <p>Nay ſome good-natu<g ref="char:EOLhyphen"/>red Atheiſts have ſo Re<g ref="char:EOLhyphen"/>vered and Defined it, as the only Deity in the world; and in propor<g ref="char:EOLhyphen"/>tion fancied nothing but God-like of it: Nothing indeed more God like and Divine, as ſeeming to partake of the <hi>Immen<g ref="char:EOLhyphen"/>ſity, Infiniteneſſe, and Om<g ref="char:EOLhyphen"/>nipreſence of God.</hi>
+               </p>
+               <p>To illuſtrate the Qua<g ref="char:EOLhyphen"/>lity and Condition of it, the Holy learned of old time as well as new, have many ſayings and ſimili<g ref="char:EOLhyphen"/>tudes: For tranſcendent things need many words
+<pb n="24" facs="tcp:170295:19"/>for their conveyance unto common apprehen<g ref="char:EOLhyphen"/>ſions.</p>
+               <p>One calleth Conſci<g ref="char:EOLhyphen"/>ence [A juſt and <hi>impartial <g ref="char:V">Ʋ</g>mpire</hi> betwixt God and man] ſpeaking the truth and right.
+<note place="margin">
+                     <g ref="char:V">Ʋ</g>mpire.</note>
+               </p>
+               <p>Another terms it [An <hi>Authentick and Divine Eccho</hi> both of the Mercy and the Judgement-ſeat] ſaying as God ſaith [If it condemn,
+<note place="margin">Eccho.</note>
+                  <note place="margin">1 John 3.20, 21.</note> much more will God who is greater; [And if not, neither doth God.]</p>
+               <p>One of the Greek Fa<g ref="char:EOLhyphen"/>thers ſtyls it [The Souls <hi>Lanthorn</hi>] by it to ſee her ſelf and her ſins:
+<note place="margin">Lanthorn.</note> But as
+<pb n="25" facs="tcp:170295:19"/>ſpirits (ſay ſome) firſt make the lights to burn blew, and at the laſt to go quite out; So the Divel with his blaſt would blow [this Candle of the Lord in the belly] (as <hi>Solomon</hi> calleth it) out,
+<note place="margin">Prov. 20.27.</note> that the ſoul ſhould ſee nothing by it.</p>
+               <p>Another calleth it <hi>[The Stomach of the Soul]</hi> That whereas ſin,
+<note place="margin">Stomach.</note> like the book in the Revelation, which St. <hi>John</hi> was bid to eat [ſweet in the mouth,
+<note place="margin">Rev. 10.10.</note> but bitter in the belly] goeth glibly down, as ſmooth as Oyl; Conſcience diſ<g ref="char:EOLhyphen"/>daineth and loatheth it,
+<note place="margin">Fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tum Infectum.</note> and fain would caſt it up
+<pb n="26" facs="tcp:170295:20"/>again, (but that a thing done, cannot be undone) yet it yeoxeth and reach<g ref="char:EOLhyphen"/>eth, and exhaleth many loathſome ſavors; it up<g ref="char:EOLhyphen"/>braids the ſinner.</p>
+               <p>One calleth it <hi>[A ſecon<g ref="char:EOLhyphen"/>dary Law or Bible,</hi>
+                  <note place="margin">Book. Bernard Chryſoſt. hodex ani<g ref="char:EOLhyphen"/>mae.</note> 
+                  <hi>a living and walking Book]</hi> annex<g ref="char:EOLhyphen"/>ed to the ſoul of man, conſiſting of two parts or volumes; <hi>The Law-book of Statutes;</hi> And the Chro<g ref="char:EOLhyphen"/>nicle-booke of works; one for <hi>Rule,</hi> the other for <hi>Acts.</hi>
+               </p>
+               <p>Another calleth it <hi>[A School-Maſter]</hi> Monitor and Corrector of the ſoul,
+<note place="margin">Origen Paedago<g ref="char:EOLhyphen"/>gus animae.</note> mind, thoughts and ways; and indeed they fare
+<pb n="27" facs="tcp:170295:20"/>much alike at the unwor<g ref="char:EOLhyphen"/>thy hands of the miſ<g ref="char:EOLhyphen"/>deeming World; for though a good School Maſter be one of the beſt members in Church and Common-wealth,
+<note place="margin">Quem Ju<g ref="char:EOLhyphen"/>piter odit, hunc Pae<g ref="char:EOLhyphen"/>dagogum facit.</note> yet hated and deſpiſed even to a Proverb, not caring to be troubled with them; So with Conſci<g ref="char:EOLhyphen"/>ence.</p>
+               <p>It is ſtyled by one [The Houſe of the Soul] be<g ref="char:EOLhyphen"/>cauſe there, if anywhere,
+<note place="margin">Houſe.</note> men may be properly ſaid to be at home;
+<note place="margin">Pro. 23.7.</note> and at home men are (though not abroad) what they are; [As he thinketh in his heart and Conſcience,
+<pb n="28" facs="tcp:170295:21"/>ſo is he:] As when we receive Summons from Superiors, the Meſſengers follow us not to our ideling places abroad, but come to our houſes (ſup<g ref="char:EOLhyphen"/>poſing every man to be at home) and there faſten their Scripts upon the door: So God's Miniſters and Meſſengers look for us with their Summons at the houſes of our Conſci<g ref="char:EOLhyphen"/>ences; And oh how many Scripts have they fixed upon our doors! And is it not pity that this our ſumptuous houſe ſhould lie waſte, ruined and de<g ref="char:EOLhyphen"/>cayed?</p>
+               <p>And by another [<hi>God's
+<pb n="29" facs="tcp:170295:21"/>Secretary and Apparater,</hi> His Commiſſary and Mi<g ref="char:EOLhyphen"/>niſter,
+<note place="margin">Preacher.</note> 
+                  <hi>God's Preacher in our Boſomes:</hi> And it is a moſt certain Rule, That that man that will not regard the Preacher in the Boſome, will hardly regard the Preacher in the Pulpit: And the reaſon of the ones pro<g ref="char:EOLhyphen"/>ſiting ſo little, is becauſe the other is neglected ſo much.</p>
+               <p>And <hi>[The Souls Looking-glaſſe]</hi> clearer then Criſtal,
+<note place="margin">Glaſſe.</note>
+                  <note place="margin">Speculo Similis.</note> wherein by reflection we may ſee all of our ſelves; and therefore the Con<g ref="char:EOLhyphen"/>ſcience is called <hi>Anima reflexa, [The Soul reflecting
+<pb n="30" facs="tcp:170295:22"/>and recoyling upon it ſelf]</hi> As St.
+<note place="margin">1 Cor. 4.4.</note> 
+                  <hi>Paul</hi> did, [to know by it ſelf] or, <hi>A reflexive Knowledge:</hi>
+                  <note place="margin">Scientia Reflexiva.</note> Firſt the mind thinketh or knoweth a thing which is either good or bad—Then it reflecteth by thinking and knowing againe, knowing that we know it to be good or bad: As men ſay vulgarly [I know what I know.]
+<note place="margin">1 Kings 2.44.</note> And as the King to <hi>Shimei</hi> [Thou knoweſt all that thine heart knoweth, &amp;c.] And this is the Act of Conſcience, this joyning of the ſecond knowledge to the firſt, giveth it the name of <hi>Conſcience.</hi>
+               </p>
+               <pb n="31" facs="tcp:170295:22"/>
+               <p>Reſemblance of this we have in the eye, that can ſee all viſible objects, all things that are to be ſeen, and yet ſeeth not it ſelf but by reflexion, &amp; the help of a Looking-glaſſe: So the mind of man that can look upon and into all creatures, yet cannot behold it ſelf but by <hi>Conſcience,</hi> which is <hi>[The whole Soul with its eyes inward.]</hi>
+                  <note place="margin">Forerun<g ref="char:EOLhyphen"/>ner of the laſt Judge<g ref="char:EOLhyphen"/>ment.</note>
+               </p>
+               <p>Another calleth it <hi>[The Forerunner of the laſt Judgement]</hi> the private before the publique Judgement day,
+<note place="margin">Praejudi<g ref="char:EOLhyphen"/>cium ex<g ref="char:EOLhyphen"/>tremi Ju<g ref="char:EOLhyphen"/>dicii.</note> as your <hi>Seſſions before Aſſizes:</hi> even the trueſt Almanack
+<pb n="32" facs="tcp:170295:23"/>in our own breſts and boſomes,
+<note place="margin">Tertullian.</note> foreſhewing the weather of the future world, and what ſhall be<g ref="char:EOLhyphen"/>come of us at the laſt day.</p>
+               <p>And thus for the qua<g ref="char:EOLhyphen"/>lity of Conſcience in ge<g ref="char:EOLhyphen"/>neral, whence and what manner of thing it is.</p>
+            </div>
+            <div n="4" type="part">
+               <head>4.
+<note place="margin">4. <hi>
+                        <g ref="char:V">Ʋ</g>bi ſit.</hi>
+                  </note> 
+                  <hi>The proper Place and Seat of it.</hi>
+               </head>
+               <p>And here as between Chriſt and two of <hi>John</hi>'s Diſciples [Maſter,
+<note place="margin">John 1.38.</note> where dwelleſt thou? Come and ſee] the habitation is not the <hi>Body,</hi> but the <hi>Soul; not in the Face;</hi>
+                  <note place="margin">1 Cor. 2.11.</note> no other man can know it; not in
+<pb n="33" facs="tcp:170295:23"/>the <hi>Speech;</hi> no hypocriſie or diſſimulation of man can thrall it, to juſtiſie his words and deeds, although a thouſand times alledged.</p>
+               <p>It is the Deputy of God in the ſoul of man;
+<note place="margin">Ameſ.</note> and yet here all do not accord about it:
+<list>
+                     <item>—Some give it as belong<g ref="char:EOLhyphen"/>ing only to the <hi>will,</hi>
+                        <note place="margin">Barlow.</note> for the agent and working power of it, as onely practick.</item>
+                     <item>—Some to the <hi>Mind for the underſtanding</hi> power of it, as only <hi>Theorick.</hi>
+                        <note place="margin">Actus ra<g ref="char:EOLhyphen"/>tionis ap<g ref="char:EOLhyphen"/>plicans ſcientiam ad opus. Aquin.</note>
+                     </item>
+                     <item>—Some to <hi>Reaſon,</hi> for the diſcourſing power of it, driving to iſſue by diſ<g ref="char:EOLhyphen"/>courſe.</item>
+                  </list>
+               </p>
+               <pb n="34" facs="tcp:170295:24"/>
+               <p>Some call it <hi>an Habit;</hi> others <hi>an Act;</hi> others <hi>a Faculty;</hi> with their ſeve<g ref="char:EOLhyphen"/>ral arguments <hi>Pro</hi> and <hi>Con:</hi> [This is that I told you before) Men hardly know what to make of it, it is ſo divine.</p>
+               <p>But I decline the Ca<g ref="char:EOLhyphen"/>ſuiſts and School-men (who ſpeake moſt herein to mens heads) of purpoſe to ſpeak unto your Conſciences; <hi>[Con<g ref="char:EOLhyphen"/>ſciences, I ſay.]</hi>
+               </p>
+               <p>Sure I am that the Apoſtle diſtinguiſheth it both from <hi>the Mind</hi> and from <hi>the Will,</hi>
+                  <note place="margin">Tit. 1.15. 1 Tim. 1.5.</note> as a diffe<g ref="char:EOLhyphen"/>rent and diſtinct thing, and that for good Rea<g ref="char:EOLhyphen"/>ſons.</p>
+               <pb n="35" facs="tcp:170295:24"/>
+               <p n="1">1. Becauſe the mind dealeth moſt in generals and univerſals; but Conſcience medleth all in a mans own particular proprieties, of thoughts, words and deeds.</p>
+               <p n="2">2. Becauſe Conſcience is ſo far from being one of both, or both in one, that it ſitteth in the ſoul as a controler over them both, in their Acts of thoughts and deſires.</p>
+               <p n="3">3. Becauſe there is ſecret Jealouſie, and open Hoſtility between them; the other powers of the ſoul taking Conſcience to be but <hi>a Spie,</hi> do what they can to ſculk, evade
+<pb n="36" facs="tcp:170295:25"/>and hide from it; to delude and deceive it; to oppoſe or depoſe it: Conſcience on the other ſide, ſtriveth to keep its ground, and to hold its own,
+<note place="margin">Self-rea<g ref="char:EOLhyphen"/>ſonings, conferen<g ref="char:EOLhyphen"/>ces, mu<g ref="char:EOLhyphen"/>tual Apo<g ref="char:EOLhyphen"/>logies and excepti<g ref="char:EOLhyphen"/>ons. <hi>Rom.</hi> 2.</note> till it be blinded or bribed, proceeding in its office (in deſpite of all oppoſition) cites all the powers of nature, ſitteth upon them, examineth, witneſſeth, and judgeth, even to execution.</p>
+               <p>So that the proper ſeat of Conſcience is <hi>the whole Soul,</hi> there placed next under God over all men. Their ground ſeemeth too weak, and their room too narrow, that would
+<pb n="37" facs="tcp:170295:25"/>confine Conſcience to any part (one or other) of the ſoul.</p>
+               <p>It is in the ſoul of man,
+<note place="margin">Anima eſt indiviſa tota in tota.</note> not as <hi>a part of a part</hi> (for it is indiviſible) but as <hi>whole in the whole,</hi> and in every part. Not in the underſtanding alone, or will alone, or reaſon alone, nor in memory or affections alone, but it hath place, office and acts, in all and every part of the ſoul, as the ſoul hath in every part of the body; exerciſing ſeeing in the eye, hearing in the ears, &amp;c.</p>
+               <list>
+                  <item>— <hi>In the underſtanding</hi> it ſitteth as <hi>Judge.</hi>
+                  </item>
+                  <item>—<hi>In the Reaſon</hi> as <hi>Accuſer.</hi>
+                  </item>
+                  <pb n="38" facs="tcp:170295:26"/>
+                  <item>—<hi>In the Memory,</hi> as <hi>Witneſs and Regiſter.</hi>
+                  </item>
+                  <item>—<hi>In the Will and Affections</hi> as Gaoler and Executi<g ref="char:EOLhyphen"/>oner, Accuſing or Excu<g ref="char:EOLhyphen"/>ſing, Abſolving or Con<g ref="char:EOLhyphen"/>demning; Comforting or tormenting. And yet one of our Countrey-men hath appropriated unto each part of the ſoul a diſtinct Court or Office;</item>
+                  <item>—<hi>To the Senſitive part,</hi> The Court of <hi>Common-Pleas.</hi>
+                  </item>
+                  <item>—<hi>To the Intellectual part,</hi> The Court of <hi>Kings-Bench.</hi>
+                  </item>
+                  <item>—<hi>To the ſpiritual part,</hi> The Court of <hi>Chancelry:</hi> In this Court all cauſes are handled, but ſtill with ſpecial reference to God;
+<pb n="39" facs="tcp:170295:26"/>Here ſits the <hi>Conſcience</hi> as <hi>Lord-Chanceller,</hi> and <hi>Syntereſts</hi> as <hi>Maſter of the Roles:</hi> To this Court all the powers of man owe and pay homage, what ever it be, whether Act or Faculty; whether of the practical underſtand<g ref="char:EOLhyphen"/>ing or judgement; it is placed in the ſoul of moſt abſolute power, next under God over all in man. And thus for the proper place and ſeat of it.</item>
+               </list>
+            </div>
+            <div n="5" type="part">
+               <head>5. <hi>The Subject of it.</hi>
+                  <note place="margin">5. Quibus ſit.</note>
+               </head>
+               <p>Whoſe and with whom it is, which generally conſidered, is a general
+<pb n="40" facs="tcp:170295:27"/>thing, common <hi>to Angels, Divels,</hi> and <hi>Men.</hi>
+               </p>
+               <p>—<hi>To Angels,</hi> as appears by the Angel's ſpeech to <hi>John,</hi> when he would have worſhipped him [See thou do it not] The Angel had ſomething within him that told him he was <hi>John</hi>'s Fellow-Servant;
+<note place="margin">Rev. 19.10.</note> and therefore not to aſſume divine Worſhip to himſelf, and that was <hi>His Conſcience.</hi>
+               </p>
+               <p>—<hi>To Divels,</hi> by the Divels ſpeech to our Sa<g ref="char:EOLhyphen"/>viour diſpoſſeſſing them, [Art thou come to tor<g ref="char:EOLhyphen"/>ment us before the time?
+<note place="margin">Mat. 8.29.</note>] even they had ſomething within them that told them, They had a time
+<pb n="41" facs="tcp:170295:27"/>of greater torment to come, and that was their Conſciences.</p>
+               <p>—<hi>To Men</hi> more properly, to all Men generally: There is in every man a Conſcience, ſuch as it is, good or bad.</p>
+               <p>—A Conſcience in the very Heathens [bearing them witneſſe,
+<note place="margin">Rom. 2.15.</note> accuſing or excuſing.]</p>
+               <p>—A Conſcience in Hy<g ref="char:EOLhyphen"/>pocrites,
+<note place="margin">John 8.9.</note> Scribes and Pha<g ref="char:EOLhyphen"/>riſees [being convicted in their Conſciences.]</p>
+               <p>—A Conſcience in good Men,
+<note place="margin">2 Cor. 1.12.</note> as <hi>Paul</hi> had [The teſtimony of his own Conſcience.]</p>
+               <p>—A Conſcience in bad Men,
+<note place="margin">Tit. 1.15.</note> [Their Minds and
+<pb n="42" facs="tcp:170295:28"/>Conſcience being defiled] Thus of the ſubject of it in general, a common thing.</p>
+            </div>
+            <div n="6" type="part">
+               <head>6.
+<note place="margin">6. Quare ſit.</note> 
+                  <hi>The Grounds and Reaſons of it.</hi>
+               </head>
+               <p>God hath appointed this ſtanding power in the ſoul of man, for two ſpe<g ref="char:EOLhyphen"/>cial Reaſons above many.</p>
+               <p n="1">1. <hi>For the honour of his Juſtice;</hi> To ſhew how righteous a Judge the Lord is;
+<note place="margin">Pſal. 51.4.</note> [That he might be juſtified when he ſpeaketh, and cleared when he judgeth.] He commanded Earthly Judges not to judge without witneſſe; and
+<pb n="43" facs="tcp:170295:28"/>himſelf will not, (though he might:) He does no<g ref="char:EOLhyphen"/>thing without witneſſe,
+<note place="margin">Acts 25.16. Mat. 22.12.</note> but [brings the Accuſers face to face] as <hi>Feſtus</hi> told <hi>Agrippa,</hi> which much convinceth, ſilenceth, and confoundeth, [To be judged out of its own mouth] like the wicked ſervant;
+<note place="margin">Job 15.6. Luke 19.22.</note> and as <hi>Eliphaz</hi> told <hi>Job:</hi> Therefore God for the honour of his righteouſneſs in all his ju<g ref="char:EOLhyphen"/>dicial proceedings [hath not left himſelf without witneſſe] in any ſoul,
+<note place="margin">Act. 14.17.</note> but placed a Conſcience in every breſt to bring in evidence, <hi>Pro or Con,</hi> be<g ref="char:EOLhyphen"/>fore God, ſo juſt cleare and righteous a Judge
+<pb n="44" facs="tcp:170295:29"/>is the Lord—</p>
+               <p>
+                  <hi>For the honour of his Mercy;</hi> to ſhew how good and how gracious a Father our God is; in matching us with ſo neer a Friend, ſo true a Coun<g ref="char:EOLhyphen"/>ſellor; in not leaving mans wonderful forget<g ref="char:EOLhyphen"/>fulneſſe of God and him<g ref="char:EOLhyphen"/>ſelf, and his own ſoul, without a ſecret Monitor and Remembrancer, a word and a voice behind him upon all occaſions. In all his omiſſions and commiſſions, he cannot omit a duty,
+<note place="margin">Iſa. 30.21.</note> or commit a ſin, but his Ear ſhall hear a word behind him, when his Eye doth not ſee his Teacher;
+<note place="margin">Job 4.16.</note> He ſhall
+<pb n="45" facs="tcp:170295:29"/>hear a voice in ſilence, his Conſcience ſhall tell him of it; remembring our mindleſneſs, and ſpurring up our dulneſſe againſt ſinful omiſſions; and [Hedging up our way with thorns] putting ſome thorny threat or other in every path of ſin,
+<note place="margin">Hoſ. 2.6.</note> againſt ſinful commiſſi<g ref="char:EOLhyphen"/>ons; making us ſay to Conſcience, as <hi>David</hi> did to <hi>Abigail,</hi>
+                  <note place="margin">1 Sam. 25.32, 33.</note> [Bleſſed be thou of the Lord, that thou haſt met me this day, and bleſſed be thy advice, &amp;c. And bleſſed be the Lord God who ſent thee.]</p>
+               <p>For (believe it) 'tis not the ſevereſt and ſupream<g ref="char:EOLhyphen"/>eſt
+<pb n="46" facs="tcp:170295:30"/>power of Magiſtrates, and their higheſt Courts of Juſtice and Judgement<g ref="char:EOLhyphen"/>ſeats; 'tis not Juſtices, Judges, Kings, Parlia<g ref="char:EOLhyphen"/>ments; 'tis not all the ſaddeſt and bloodieſt inſtruments of execution, of death and vengeance, Swords, Guns, Blocks, Halters, nor any nor all of theſe that can keep men in order, and the world in awe, were it not for this mighty thing of God,
+<note place="margin">Rom. 13.5. [ſubject for Con<g ref="char:EOLhyphen"/>ſcience ſake.]</note> called <hi>Conſcience,</hi> without which the whole world would tumble into diſorder and confuſion, become a Chaos again, and loſe the form of a world. <hi>[Conſcience, I ſay.]</hi>
+               </p>
+               <pb n="47" facs="tcp:170295:30"/>
+               <p>And thus for the do<g ref="char:EOLhyphen"/>ctrinal part in the ſix points of Conſcience in general.</p>
+               <p>Now becauſe all Scrip<g ref="char:EOLhyphen"/>ture given by Inſpiration of God,
+<note place="margin">2 Tim. 3.16.</note> is profitable not only for doctrine, but alſo for reproof, corre<g ref="char:EOLhyphen"/>ction, and inſtruction, &amp;c. So let this be uſed.</p>
+            </div>
+            <div type="part">
+               <head>1. <hi>For reproof. Of three Errors in opinion.</hi>
+               </head>
+               <p n="1">1.
+<note place="margin">1. Error.</note> That Conſcience in general is not common to all, as if ſome men had no Conſciences; whereas it is as poſſible for fire to be without heat, as for any man to be without a
+<pb n="48" facs="tcp:170295:31"/>Conſcience: The vulgar ſaying is, [Such a man hath no Conſcience, &amp;c.] But the meaning is, He hath no good Conſcience; for as good none, as none good. But every man hath a Conſcience, one or other, ſuch as it is, good or bad: For it is a ſtand<g ref="char:EOLhyphen"/>ing Power, created by God; and unmoveably ſet in the ſoul of man, abiding for ever with him whether he be on Earth, in Heaven, or Hell.</p>
+               <p n="2">2.
+<note place="margin">2. Error.</note> That Conſcience is nothing but a ſad mood, or melancholy ſit, or heavy damp and dumps on the ſpirit of a man,
+<pb n="49" facs="tcp:170295:31"/>&amp;c. Erroneouſly miſta<g ref="char:EOLhyphen"/>king the effect of the cauſe: Whereas Conſci<g ref="char:EOLhyphen"/>ence is a ſtandard chained to man, ever remaining with him, when all his moods and fits of heats and colds, of fears and joyes, and jollities, are over and gone. Let Hypocrites and Epicures ſlabber it with their jol<g ref="char:EOLhyphen"/>lity, and daub it with their formality, yet their Conſciences will be ſure one time or other, if not in the midſt of their drunken carouſes, and riotousexceſſes (like thoſe ſingers of a mans hand on <hi>Belſhazzar</hi>'s wall) get in the end and bottome)
+<note place="margin">Dan 5.5.</note>
+                  <pb n="50" facs="tcp:170295:32"/>to ſadden, ſoure, and ſpoyl all,
+<note place="margin">Prov. 14.13.</note> yea even in their beſt ſervices, (as in <hi>Cain</hi>'s Sacrifice, when his coun<g ref="char:EOLhyphen"/>tenance was dijected) there will be ſomething (if not in the midſt,
+<note place="margin">Gen. 4.5.</note> yet) in the end, to tell them That both their Acts and Perſons are reje<g ref="char:EOLhyphen"/>cted.</p>
+               <p>That Conſcience is hanged or drowned,
+<note place="margin">3. Error.</note> dead and gone a great while a go, &amp;c. But alas, theſe are idle, addle opinions, Atheiſtical Proverbs, and ſottiſh imaginations; had it been no more then this, That [Conſcience hath lain long bedrid and ſpeechleſſe, &amp;c.] it had
+<pb n="51" facs="tcp:170295:32"/>been enough, yet it might be raiſed and recovered; But that he is dead, yea ſo ſhamefully and accur<g ref="char:EOLhyphen"/>ſedly dead, 'Tis petty Atheiſm to ſay and think ſo. No, no:</p>
+               <p>
+                  <hi>Ahitophel</hi> can tell you That though a man hang himſelf,
+<note place="margin">2 Sam. 17.23.</note> yet he cannot hang his Conſcience.</p>
+               <p>
+                  <hi>Saul</hi> can tell you,
+<note place="margin">1 Sam. 31.4.</note> That though a man kill him<g ref="char:EOLhyphen"/>ſelf, yet he cannot kill his Conſcience, which is as immortal as his ſoul—</p>
+               <p>
+                  <hi>Judas</hi> could tell you,
+<note place="margin">Mat. 27.4.</note> That no force or violence can ſuppreſſe or curb it; for it made him carry back the price, and decry his ſin, ſaying, [I have ſinned.]</p>
+               <pb n="52" facs="tcp:170295:33"/>
+               <p>
+                  <hi>Pharaoh</hi> could tell you, That no earthly might or majeſty can baſh or daſh it, but that one time or other it will ſtare and flie in the ſinners face; for it did in his, (as great a King as he was) and made him ſay [I have now ſinned; The Lord is righ<g ref="char:EOLhyphen"/>teous,
+<note place="margin">Exod. 9.27.</note> but I and my peo<g ref="char:EOLhyphen"/>ple are wicked.]</p>
+               <p>
+                  <hi>Saul</hi> again could tell you, That no Mirth or Muſick can Charme or Conjure the evill ſpirit of it;
+<note place="margin">1 Sam. 16.14, 16.</note> for his bad Conſcience plaied the Divel with his wretched ſoul.</p>
+               <p>And <hi>Joſeph</hi>'s Brethren could tell you, That time and years cannot ex<g ref="char:EOLhyphen"/>punge
+<pb n="53" facs="tcp:170295:33"/>the writings, nor obliterate or eat out the ingravings of it; for twenty years after (when there was no other Pur<g ref="char:EOLhyphen"/>ſuer or Remembrancer) it accuſed them,
+<note place="margin">Gen. 42.21, 22.</note> and made them look wiſtly upon one another, and accuſe themſelves of their cruel unnaturall uſage of him,
+<note place="margin">Nullum tempus oc<g ref="char:EOLhyphen"/>currit Re<g ref="char:EOLhyphen"/>gi.</note> [And they ſaid one to another, We are verily guilty concern<g ref="char:EOLhyphen"/>ing our Brother, &amp;c. Therefore is this diſtreſſe come upon us, and his blood required of us.] And now having men<g ref="char:EOLhyphen"/>tioned twenty years, 'tis the leſſe notable to ſpeak of <hi>Pharaoh</hi>'s Butler's Con<g ref="char:EOLhyphen"/>ſcience
+<pb n="54" facs="tcp:170295:34"/>remembring him about one year after,
+<note place="margin">Gen. 40.23. Gen. 41.9.</note> [I do now remember my faults this day.] And ve<g ref="char:EOLhyphen"/>rily ſo it is, That as many in youthful vanity and vain-glory, do ſuch vio<g ref="char:EOLhyphen"/>lent wrongs in bulges and bruiſes to their bodies, as forty or fifty years after they ſadly remember in the Aches and Ailings of pained old Age: So do many bear out inſen<g ref="char:EOLhyphen"/>ſibly for a time the bulges and bruiſes they have given their ſouls, it may be thirty, forty, fifty years, till the hand of the Lord be upon them, ei<g ref="char:EOLhyphen"/>ther in ſome heavy croſſe and ſharp affliction, or a
+<pb n="55" facs="tcp:170295:34"/>Death-bed, and then commonly Conſcience remembers them; For Conſcience will keep a grudge a long time, and is not ſo ſoon pacified as offended; though it doth not always ſhew remorſe, yet it always keeps re<g ref="char:EOLhyphen"/>membrance; though in many men it ſleep in re<g ref="char:EOLhyphen"/>gard of motion, yet it never ſleeps in regard of notice and obſervation: And though not always ſpeaking, yet it is always writing, taking Notes, preparing Bills and Items againſt that day to come.</p>
+               <p>Nay death it ſelf, that diſſolves all worldly knots, and parts the
+<pb n="56" facs="tcp:170295:35"/>neereſt on Earth [Man and Wife] cannot part Conſcience and Sinner; but it remains in him as a worm that never dies;
+<note place="margin">Mar. 9.44.</note> and as a fire that never goes out;
+<note place="margin">Iſa. 66.24.</note> not on Earth, no nor in Hell.</p>
+               <p>And thus for reproof of three errors and falſe opinions.</p>
+            </div>
+            <div type="part">
+               <head>2. <hi>For Correction. Of three practical Errors and Misbehaviours of the World in point of Con<g ref="char:EOLhyphen"/>ſcience.</hi>
+               </head>
+               <p n="1">1.
+<note place="margin">1. <hi>Miſcar<g ref="char:EOLhyphen"/>riage.</hi>
+                  </note> In wrapping up <hi>Goliah</hi>'s ſword in a fair cloth behind the Ephod; In hiding the monſtrous
+<pb n="57" facs="tcp:170295:35"/>miſcarriages, prodigious impieties, and diveliſh practiſes of the World, under that Religious name, and ſpecious mask of Conſcience.</p>
+               <p>One man is of an er<g ref="char:EOLhyphen"/>roneous opinion, and He<g ref="char:EOLhyphen"/>trodox judgement, holds ſome falſe doctrine, by means either of the au<g ref="char:EOLhyphen"/>thority of the Teacher, or of the dignity of ſome eminent follower (as having mens perſons in admiration,
+<note place="margin">Jam. 2.1. Jude 16.</note> and having the faith of Chriſt in re<g ref="char:EOLhyphen"/>ſpect of perſons) or of prejudice and prepoſſeſ<g ref="char:EOLhyphen"/>ſion, ſticking to his firſt perſwaſion, pride and obſtinacy, denying place
+<pb n="58" facs="tcp:170295:36"/>for retractation, or truer information, and this he calls his Conſcience.</p>
+               <p>—Another is of an irre<g ref="char:EOLhyphen"/>fractory inclination, of an heady headſtrong humour and propenſion, his ſenſes not exerciſed to diſcern between his natural and ſpiritual diſ<g ref="char:EOLhyphen"/>poſition,
+<note place="margin">Heb. 5.24.</note> the motion of his ſenſitive appetite, and his diviner principle, his lower and his upper ſoul; and the former common<g ref="char:EOLhyphen"/>ly is more obſtreperous, importunate and clamo<g ref="char:EOLhyphen"/>rous for ſatisfaction then the latter; whereby a man thinks himſelfe bound to do whatſoever he hath a ſtrong mind,
+<pb n="59" facs="tcp:170295:36"/>will and humour to do; and this he calls his Con<g ref="char:EOLhyphen"/>ſcience.</p>
+               <p>—Another is of a ſtrong ſtrange imagination and phantaſie, which is a kind of irrational animal con<g ref="char:EOLhyphen"/>ſcience; having the ſame relation to ſenſitive re<g ref="char:EOLhyphen"/>preſentations [thoſe Laws in the members] which Conſcience hath to intel<g ref="char:EOLhyphen"/>lectual (thoſe Laws of the mind.)
+<note place="margin">Rom. 7.23. <hi>Ariſtotle.</hi>
+                  </note> And as phantaſie ſupplieth the place of reaſon in unreaſonable creatures; ſo it doth of Conſcience in unconſci<g ref="char:EOLhyphen"/>onable, when a man is directed by his own con<g ref="char:EOLhyphen"/>ceit; and this he calls his Conſcience.</p>
+               <pb n="60" facs="tcp:170295:37"/>
+               <p>—Another is abundant in paſſions, fears, and animoſities, with all their croſſe counſels and com<g ref="char:EOLhyphen"/>mands; yea and ignorant zeal, which (though of God) yet may be ranked with paſſion,
+<note place="margin">Rom. 10.2.</note> if without knowledge; and this he calls his Conſcience too.</p>
+               <p>—Another is poſſeſt with ſatanical ſuggeſti<g ref="char:EOLhyphen"/>ons, diabolical deluſions, enthuſiaſmes and infuſi<g ref="char:EOLhyphen"/>ons of that black infernal ſpirit, as upon trial of ſpirits will appear, by the ſymptomes,
+<note place="margin">1 John 4.1.</note> fruits and products of fleſh and Divel [Adulteries, Ido<g ref="char:EOLhyphen"/>latries,
+<note place="margin">Gal. 5.19, 20, 21.</note> Strifes, Seditions, Hereſies, Envyings, Mur<g ref="char:EOLhyphen"/>thers,
+<pb n="61" facs="tcp:170295:37"/>&amp;c.] And even theſe he calls his Conſci<g ref="char:EOLhyphen"/>ence alſo.</p>
+               <p>And thus, as <hi>Paul</hi> ſaid of falſe gods in the world [For though there be that are called gods (as there be gods many,
+<note place="margin">1 Cor. 8.5, 6.</note> and lords many) but unto us there is but one God:] So may we ſay of Conſci<g ref="char:EOLhyphen"/>ences, [There be that are called Conſciences, many falſly ſo called.</p>
+               <p>But oh! that ever ſo ſacred a thing, and ſo divine a name as Conſci<g ref="char:EOLhyphen"/>ence, even among Chri<g ref="char:EOLhyphen"/>ſtians, ſhould be proſti<g ref="char:EOLhyphen"/>tuted and forced to yield favour, reſpect, and ſhel<g ref="char:EOLhyphen"/>ter to the vileſt things,
+<pb n="62" facs="tcp:170295:38"/>as the errors, humours, phantaſies, paſſions, and ſatanical deluſions of men; this is one of the worlds practical errors and miſbehaviours, which falls firſt under this cor<g ref="char:EOLhyphen"/>rection.</p>
+               <p>And there is a ſecond not inferiour to it,
+<note place="margin">2. <hi>Miſcar<g ref="char:EOLhyphen"/>riage.</hi>
+                  </note> which the world is guilty of, in three degrees of ill beha<g ref="char:EOLhyphen"/>viour towards Conſci<g ref="char:EOLhyphen"/>ence.</p>
+               <p n="1">1. One is by ſtrange neglecting and ſlighting Conſcience often in its offices of rebukes and Counſels, and ſo eſtrang<g ref="char:EOLhyphen"/>ing it, that it takes it un<g ref="char:EOLhyphen"/>kindly, neglects its office, and ſpeaks faintly, or not
+<pb n="63" facs="tcp:170295:38"/>at all, like that diſregar<g ref="char:EOLhyphen"/>ded Propheteſſe, This good <hi>Caſſandra</hi> will ſpeak no more.</p>
+               <p>Conſcience one while may be heard ſpeaking to a man,
+<note place="margin">Judg. 9.7. Pſal. 34.11.</note> as <hi>Jotham</hi> to the men of <hi>Shechem</hi> [Hearken unto me, that God may hearken unto you:] And as <hi>David</hi> to the little chil<g ref="char:EOLhyphen"/>dren [Come and hearken unto me, and I will teach you, &amp;c.] But if they will not come and hear<g ref="char:EOLhyphen"/>ken, then another while conſcience thus negle<g ref="char:EOLhyphen"/>cted, deſpiſed and eſtran<g ref="char:EOLhyphen"/>ged, will ſit down as diſcontented, ſee and hear all, and hold its peace, and for a long time ſpeak no more.</p>
+               <pb n="64" facs="tcp:170295:39"/>
+               <p n="2">2. Another is by ſtub<g ref="char:EOLhyphen"/>born reſiſting and oppo<g ref="char:EOLhyphen"/>ſing Conſcience, in all its motions of perſwaſions, directions, and cautions, by croſſe contrary and contradicting practiſes, ſtill ſetting againſt Con<g ref="char:EOLhyphen"/>ſcience, in every thing, at every turn. And this Conſcience takes very indignly; as <hi>Moſes,</hi> when <hi>Pharaoh</hi> reſiſted ſo obſti<g ref="char:EOLhyphen"/>nately all his motions and mediums, ſaying [Get thee from me, take heed to thy ſelf, ſee my face no more,
+<note place="margin">Exod. 10.28, 29.</note> &amp;c.] <hi>Moſes</hi> then anſwered [Thou haſt ſpoken well, I will ſee thy face again no more.] Sembleably men may ſo
+<pb n="65" facs="tcp:170295:39"/>long reſiſt and outface their Conſciences by ob<g ref="char:EOLhyphen"/>duracy impenitency, and cuſtome in ſin, that Con<g ref="char:EOLhyphen"/>ſcience may ſit down as abuſed and oppoſed, look a long time on other way, as if it had vowed to ſee a mans face again no more.</p>
+               <p n="3">3. Another is by Ma<g ref="char:EOLhyphen"/>lignant impudent baffling decrying, and beating down of Conſcience in all its offices, acts and ope<g ref="char:EOLhyphen"/>rations of rebukes and admonitions, by out ragi<g ref="char:EOLhyphen"/>ous affronts and interrup<g ref="char:EOLhyphen"/>tions; that the voice of Conſcience may be drow<g ref="char:EOLhyphen"/>ned (be it never ſo ſhrill) by louder out-cries, and
+<pb n="66" facs="tcp:170295:40"/>ſounds of Drums, Trum<g ref="char:EOLhyphen"/>pets, and Bells (as in thoſe bloody ſacrifices of Mo<g ref="char:EOLhyphen"/>lech, to drown the cries of the children) of vain pleaſures, carnal com<g ref="char:EOLhyphen"/>pany, worldly jollity, and riotous exceſſes, wine &amp; Muſick; whereby even an importunate loud-ſpeaking Conſcience, may be for a time as put out of countenance unto ſilence; and this Conſci<g ref="char:EOLhyphen"/>ence takes moſt hainouſly to be thus affronted, abu<g ref="char:EOLhyphen"/>ſed and baffled, and ſo ſeems to ſit down as offended, and ſeeing and hearing all, and ſaying nothing;
+<note place="margin">2 Cor. 2.11.</note> A diveliſh de<g ref="char:EOLhyphen"/>viſe of Satan, and dam<g ref="char:EOLhyphen"/>nable
+<pb n="67" facs="tcp:170295:40"/>practice of the world; and this is ano<g ref="char:EOLhyphen"/>ther of the worlds pra<g ref="char:EOLhyphen"/>ctical errors and miſbeha<g ref="char:EOLhyphen"/>viours in thoſe three de<g ref="char:EOLhyphen"/>grees which falls in the ſecond place under this correction.</p>
+               <p>And a third which comes not far behind it,
+<note place="margin">3. <hi>Miſcar<g ref="char:EOLhyphen"/>riage.</hi>
+                  </note> is the worlds abominable and odious, mad and ri<g ref="char:EOLhyphen"/>diculous practice of miſ<g ref="char:EOLhyphen"/>behaviour againſt Con<g ref="char:EOLhyphen"/>ſcience, endevouring to ſuppreſſe and baniſh, ſhut out and ſhake off Con<g ref="char:EOLhyphen"/>ſcience, as thinking to make away with it; But 'tis like that Heathen<g ref="char:EOLhyphen"/>rage againſt God's Son, Furious and vain:
+<note place="margin">Pſa 2.1, 3</note>
+               </p>
+               <pb n="68" facs="tcp:170295:41"/>
+               <q>A vain thing indeed in two reſpects:</q>
+               <p n="1">1. Becauſe it is a thing impoſſible to be done totally &amp; finally; though the acts may be intermit<g ref="char:EOLhyphen"/>ted, and the degrees may be remitted for a time, as if [Conſcience were put away] yet it ſticks ſo cloſe,
+<note place="margin">1 Tim. 1.19.</note> that a man may as ſoon part with himſelf as his Conſcience;
+<note place="margin">1 Cor. 11.13, 28.</note> for Con<g ref="char:EOLhyphen"/>ſcience is a mans ſelf in Scripture-ſenſe; [Judge in your ſelves] that is, In your Conſciences: Men may ſhift clothes, places, companies, but not Con<g ref="char:EOLhyphen"/>ſciences; for a mans Conſcience is moſt bold and familiar in his moſt
+<pb n="69" facs="tcp:170295:41"/>private retiredneſſe; like <hi>Ehud</hi> to King <hi>Eglon;</hi>
+                  <note place="margin">Judg. 3.20, 21.</note> it hath oft times a ſecret errand and meſſage from God to a man, when ſilence muſt be kept, and all that ſtand by muſt go out, and then it thruſts a dagger into the belly (blade, haft and all) hard<g ref="char:EOLhyphen"/>ly pluckt out againe. Though Conſcience ſince the fall of man, be grieve<g ref="char:EOLhyphen"/>ouſly corrupted and ob<g ref="char:EOLhyphen"/>ſcured, yet it cannot be quite ejected and de<g ref="char:EOLhyphen"/>ſtroyed: The vileſt A<g ref="char:EOLhyphen"/>theiſts, baſeſt Wretches, and moſt helliſh Miſcre<g ref="char:EOLhyphen"/>ants in the world,
+<note place="margin">1 Tim. 4.2.</note> though they may ſeem to choak and ſmother, or blinde,
+<pb n="70" facs="tcp:170295:42"/>or bribe it, obdurate or ſear it, by vicious practi<g ref="char:EOLhyphen"/>ſes, and riotous out-rages, as deſirous to make away with it; yet their fury is all vain: Be men as ſenſe<g ref="char:EOLhyphen"/>leſſe and ſecure, as ſleepy and benummed, as blind<g ref="char:EOLhyphen"/>ed and hardned in Con<g ref="char:EOLhyphen"/>ſcience as the Divel and their own corrupt hearts can poſſibly make them for the preſent; yet that Lion that lies at the door will be rouzed, and that <hi>Sampſon</hi> will be awakened, to break in, and pull down firſt or laſt [in due time:] As it is ſaid of evil men [Their feet ſhall ſlide in due time] either here or here<g ref="char:EOLhyphen"/>after
+<pb n="71" facs="tcp:170295:42"/>Conſcience will be known and found,
+<note place="margin">Deut. 32.35.</note> and the things that ſhall come upon them make haſte. If not in the day of life, then to be ſure at the day of death, or of judge<g ref="char:EOLhyphen"/>ment, when the heavy weights of ſin ſhall be hung upon thoſe lines, then I ſay ſhall the ham<g ref="char:EOLhyphen"/>mer of Conſcience ſtrike thick and indiſtinctly with terror.</p>
+               <p>For as they ſay of Witches, That their fa<g ref="char:EOLhyphen"/>miliar ſpirits leaves them at the Gaol, and will ſerve them then no longer. So the Divel that hath charmed the Con<g ref="char:EOLhyphen"/>ſcience, all the life time,
+<pb n="72" facs="tcp:170295:43"/>that it could not do its office and perform its function well, removes his ſpell at the approach of death, to drive the ſinner to deſpair, by ſpeaking all at once; men were better hear Conſci<g ref="char:EOLhyphen"/>ence when it would ſpeak now a little, and then a little, as they can bear, rather then by miſbeha<g ref="char:EOLhyphen"/>viours toward it, to force it unto ſuch long ſilence, that at laſt it muſt ſpeak all at once, which who can bear? Oh, 'tis heavy hearing all at once; as falling all at once, once for all; when Conſcience ſhall take up thoſe words in <hi>Iſaiah</hi> [I have long
+<note place="margin">Iſa. 42.14.</note>
+                  <pb n="73" facs="tcp:170295:43"/>time holden my peace, I have been ſtill, and re<g ref="char:EOLhyphen"/>frained my ſelf; now will I cry and deſtroy, and devour at once.] And as it was in the Fable of the blinde Woman and the Phyſitian, coming often to her houſe to cure her, never departed emp<g ref="char:EOLhyphen"/>ty, but ſtill carried away a portion of her beſt good; ſo that by that time that her ſight was recovered, all her choiſeſt goods were gone. So this blinded charmed Conſcience ſees not the ranſacking of the ſoul, and ſpoyling of graces, till it be left empty, and then it ſees and cries
+<pb n="74" facs="tcp:170295:44"/>(with <hi>Eſau</hi>) too late for a bleſſing: And therefore though ſome wretched men by their wicked commiſſions of evils, omiſſions of good, and procraſtinations of their repentance and conver<g ref="char:EOLhyphen"/>ſions to God, ſeem as de<g ref="char:EOLhyphen"/>ſtitute and void of Con<g ref="char:EOLhyphen"/>ſcience, as the very beaſts that periſh; yet Conſci<g ref="char:EOLhyphen"/>ence will ſtand forth and appear in due time, and ſhew plainly that it was preſent with them every moment of their lives, and privy to all their evil acts,
+<note place="margin">Pſa. 50.21.</note> thoughts and ways, by reproving and ſetting them in order before their eyes; and making
+<pb n="75" facs="tcp:170295:44"/>them ſay with <hi>David</hi> [O Lord, Conſcience,
+<note place="margin">Pſal. 139.1, 2, 3.</note> thou haſt ſearched me, and known me; thou know<g ref="char:EOLhyphen"/>eſt my down lying, and mine upriſing, and under<g ref="char:EOLhyphen"/>ſtandeſt my thoughts: Thou compaſſeſt or win<g ref="char:EOLhyphen"/>noweſt my paths, and art acquainted with all my ways:] And as Jeſus to <hi>Nathanael</hi> [before that <hi>Philip</hi> called thee,
+<note place="margin">John 1.48.</note> when thou waſt under the fig<g ref="char:EOLhyphen"/>tree I ſaw thee:] So will Conſcience at laſt ſay to thoſe ungodly men, [Be<g ref="char:EOLhyphen"/>fore I now ſpeak to you, I ſaw you;] At ſuch and ſuch a time, in ſuch and ſuch a place, with ſuch and ſuch company, about
+<pb n="76" facs="tcp:170295:45"/>ſuch and ſuch ungodly deeds I ſaw you—</p>
+               <p>And all to ſhew it an impoſſible, and therefore a vain thing, to attempt the nulling or avoiding of Con<g ref="char:EOLhyphen"/>ſcience.</p>
+               <p n="2">2. Becauſe it were a thing unprofitable and diſtructive to man,
+<note place="margin">Hoſ. 4.17.</note> to be let alone without this Monitor and Corrector;
+<note place="margin">Pſal. 81.11, 12. Prov. 20.27. Prov. 4.19.</note> to be given up to the treachery of a beloved ſin, or to the tyranny of a raging luſt, without this controller; to have this candle of the Lord put out, which ſhould ſearch all the hidden parts of the belly; to
+<pb n="77" facs="tcp:170295:45"/>have a mans way as darkneſſe, and not to know whereat he ſtum<g ref="char:EOLhyphen"/>bles; this were one of God's heavieſt judge<g ref="char:EOLhyphen"/>ments on man on this ſide Hell: Like a Body with<g ref="char:EOLhyphen"/>out a Pulſe; a City with<g ref="char:EOLhyphen"/>out Ward or Walls; and an Army without a Watch—</p>
+               <p>Such or worſe were a mans caſe without Con<g ref="char:EOLhyphen"/>ſcience, if it were poſſi<g ref="char:EOLhyphen"/>ble; but that diveliſh rage and practice is vain, becauſe <hi>impoſſible</hi> and <hi>un<g ref="char:EOLhyphen"/>profitable:</hi> And thus for correction of three evil practiſes.</p>
+            </div>
+            <div type="part">
+               <pb n="78" facs="tcp:170295:46"/>
+               <head>3. <hi>For Inſtruction.</hi>
+               </head>
+               <p>In a pure and precious point of righteouſneſſe about Conſcience,
+<note place="margin">Prov. 4.23.</note> [To keep it with all dili<g ref="char:EOLhyphen"/>gence] or with all keep<g ref="char:EOLhyphen"/>ing, as men would keep their treaſures, their honours, their lives. This prime Chriſtian Jewel, (as <hi>Inſtar omnium</hi>) is to be ſought with all ſeek<g ref="char:EOLhyphen"/>ing, and to be kept with all keeping; [That it may be good and void of offence, toward God and men] in all actions ſpiri<g ref="char:EOLhyphen"/>tual,
+<note place="margin">Act. 23.1. Act. 24.16.</note> moral, civil, natural, after St. <hi>Paul</hi>'s example, making it our ſpecial bu<g ref="char:EOLhyphen"/>ſineſſe,
+<pb n="79" facs="tcp:170295:46"/>and dayly exer<g ref="char:EOLhyphen"/>ciſe to have and to hold, and to uſe a good Con<g ref="char:EOLhyphen"/>ſcience.</p>
+               <p>And that upon this conſideration, becauſe Conſcience is a thing in<g ref="char:EOLhyphen"/>ſeparably annexed unto the ſoul of man, there ſet and appointed by God, never to leave him.</p>
+               <p>And now here I crave leave for a little digreſſi<g ref="char:EOLhyphen"/>on, to take ſome view of the ſundry kinds &amp; ſorts of Conſcience, as of lines drawn from the centre, to declinate the ſeveral climates and regions of Conſcience: Which of old were thought to be wittily diſtributed into Four:
+<note place="margin">Bernard.</note>
+                  <pb n="80" facs="tcp:170295:47"/>
+                  <list>
+                     <item>— 1. Good, but not Quiet.</item>
+                     <item>— 2. Quiet, but not Good.</item>
+                     <item>— 3. Both Good and Quiet.</item>
+                     <item>— 4. Neither Good nor Quiet.</item>
+                  </list>
+               </p>
+               <p n="1">1. An evill unquiet Conſcience is bad, but hopeful, becauſe ſome life is in it.</p>
+               <p n="2">2. An evil quiet Con<g ref="char:EOLhyphen"/>ſcience is worſt of all; the moſt hopeleſſe tem<g ref="char:EOLhyphen"/>per that can be; better to have a tormenting Tophet in the ſoul, than a Fools paradiſe there; It was better with <hi>Peter</hi> when he wept,
+<note place="margin">Mat. 26.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5.</note> than when he preſumed.</p>
+               <pb n="81" facs="tcp:170295:47"/>
+               <p n="3">3. A good unquiet Conſcience is good, (not ſimply, but) reſpectively, of tenderneſſe and fear<g ref="char:EOLhyphen"/>fulneſſe to offend God.</p>
+               <p n="4">4. A good and quiet Conſcience is beſt of all; a paradiſe upon Earth, a preguſtation and preli<g ref="char:EOLhyphen"/>bation of Heaven, Heaven before the time;
+<note place="margin">
+                     <hi>Juge con<g ref="char:EOLhyphen"/>vivium.</hi> Prov. 15.15. Heb. 1.14. Rev. 3.20. Rom. 14.17. Phil. 4.7.</note> A man<g ref="char:EOLhyphen"/>ſion for the bleſſed Tri<g ref="char:EOLhyphen"/>nity to dwell in; a con<g ref="char:EOLhyphen"/>tinual feaſt, at which the Servitors are Angels; the prime gueſt God himſelf: The cheer, joy in the holy Ghoſt; the Muſick, peace with the creatures, with our Neighbours, and with our ſelves; yea and ſuch peace with God in
+<pb n="82" facs="tcp:170295:48"/>Chriſt, as paſſeth all un<g ref="char:EOLhyphen"/>derſtanding.</p>
+               <p>The two good Con<g ref="char:EOLhyphen"/>ſciences belong properly to the godly; And the two bad to the ungodly: Whoſe Conſciences are</p>
+               <p>-Either too quiet, (be<g ref="char:EOLhyphen"/>ing blinded or benum<g ref="char:EOLhyphen"/>med, or ſeared) and ſo like a becalmed Ocean to famiſhed Sea-men, that kills with kindneſſe, and deſtroys with fair wea<g ref="char:EOLhyphen"/>ther;
+<note place="margin">
+                     <hi>Perituros lactans</hi> Judg. 5.25.</note> and like diſſembling <hi>Jael,</hi> offering Milk and Butter (means of life) but bringing Hammer and Nail (inſtruments of death.)</p>
+               <p>-Or too unquiet (being wounded, enraged, tor<g ref="char:EOLhyphen"/>mented)
+<pb n="83" facs="tcp:170295:48"/>and ſo like the troubled Sea that cannot reſt. So that [Good and Bad] comprehend all Conſciences, without more words and terms; for reſt and trouble are not eſſential, but acci<g ref="char:EOLhyphen"/>dental to Conſcience. Now in the general, a good Conſcience is [The ſeeing of an act according with the rule:] And in particular it is -either <hi>legal,</hi> -or <hi>evangelical;</hi> ac<g ref="char:EOLhyphen"/>cording to the rules of each.</p>
+               <p>A legal good Conſci<g ref="char:EOLhyphen"/>ence compleat is [A ſee<g ref="char:EOLhyphen"/>ing of all our actions, according with all the rules of the Law exactly]
+<pb n="84" facs="tcp:170295:49"/>And requires two things:</p>
+               <p n="1">1. A diſtinct and uni<g ref="char:EOLhyphen"/>verſal knowledge of eve<g ref="char:EOLhyphen"/>ry branch of the Law.</p>
+               <p n="2">2. A conſtant and uni<g ref="char:EOLhyphen"/>verſal obedience to every precept of the Law.</p>
+               <p>For he who is ignorant of the leaſt tittle,
+<note place="margin">Jam. 2.10.</note> and delinquent in any particle is guilty of all; and ſo conſequently hath not a compleat legall good Conſcience.</p>
+               <p>But what is this to us? this is none of ours (as our caſe now ſtands) therefore we may ſay and do with it, as did the Tribes with <hi>Rehoboam,</hi>
+                  <note place="margin">1 King. 12.16.</note> ſaying, [What portion have we in <hi>David?</hi> &amp;c.
+<pb n="85" facs="tcp:170295:49"/>And ſo departed.] For the compleat legal good Conſcience is unto us, as <hi>Saul</hi>'s Armour was unto <hi>David,</hi> [Too heavy for him to bear:] &amp; therefore our ſureſt &amp; ſafeſt way is (denying and diſclaiming all pretenſions to com<g ref="char:EOLhyphen"/>pleat legal good Conſci<g ref="char:EOLhyphen"/>ence) to depart unto the <hi>Evangelical,</hi> that we may be juſtified and ſaved:
+<note place="margin">Gal. 2.16. Heb. 7.19.</note> [theſe be your only Tents O <hi>Iſrael;</hi>] for if the Law, as the caſe now ſtands with us) be ſufficient to give life, then Chriſt's death was in vain.</p>
+               <p>Now therefore,
+<note place="margin">Act. 25.12.</note> as <hi>Feſtus</hi> to <hi>Paul,</hi> about appealing to <hi>Ceſar,</hi> ſo may I ſay to
+<pb n="87" facs="tcp:170295:50"/>the Chriſtian appealing to the Goſpel, [Haſt thou appealed unto Goſpel? unto Goſpel ſhalt thou go.]</p>
+               <p>And an evangelicall good Conſcience, is a ſeeing of an act according with the rule of the Goſpel.</p>
+               <p>And now ſince we have left the common rode of Conſcience in general, and betaken our ſelves to <hi>a good Conſcience</hi> in particular; note we, that Conſcience is called <hi>good,</hi> for a two-fold goodneſs.</p>
+               <p n="1">1. An old natural and eſſential goodneſſe of <hi>veracity;</hi> and ſo much good may be in a bad
+<pb n="86" facs="tcp:170295:50"/>mans Conſcience, (not<g ref="char:EOLhyphen"/>withſtanding his depra<g ref="char:EOLhyphen"/>vation and corruption by the Fall) as to know ſomething of the true rule, and to ſpeak truth according to its know<g ref="char:EOLhyphen"/>ledge: The curſed Scribes and Phariſees,
+<note place="margin">John 8.9.</note> Hypocrites even their Conſciences were ſo good as to deal plainly and honeſtly with them, and to tell them the truth of their ſtate to their conviction [con<g ref="char:EOLhyphen"/>victed by their owne Conſciences.] It is in<g ref="char:EOLhyphen"/>deed the beſt thing a wicked man hath, better then his Mind, Heart, Will or Affection; there is more goodneſſe in a
+<pb n="88" facs="tcp:170295:51"/>wicked mans Conſcience (I ſpeak not of <hi>primitive ſpiritual</hi> but of <hi>eſſential goodneſſe</hi>) than in any other of the powers of his ſoul beſides; hardlier ſeduced then any part in man; his Conſci<g ref="char:EOLhyphen"/>ence ſtands and ſpeaks more for God, his Ser<g ref="char:EOLhyphen"/>vants, Truth, and Name, then himſelf doth or will. And therfore S. <hi>Paul</hi> durſt appeal even unto their Conſciences, though not unto their ſpeeches; [commending our ſelves to every mans Conſcience in the ſight of God;]
+<note place="margin">2 Cor. 4.2.</note> And this is one goodneſſe for which Conſcience is called good.</p>
+               <pb n="89" facs="tcp:170295:51"/>
+               <p n="2">2. A renewed ſpiritual goodneſſe of Conſcience; for if a man be renewed all the man is renewed, all his mind,
+<note place="margin">Eph. 4.23.</note> the ſpirit of his mind, the moſt pure and ſpiritual part of his ſoul is renewed alſo:</p>
+               <p>The mind and the Conſcience go together,
+<note place="margin">Tit. 1.15.</note> in their ſoylings and waſhings, in their cor<g ref="char:EOLhyphen"/>ruptings and renewings.</p>
+               <p>And here might be di<g ref="char:EOLhyphen"/>ſtinguiſhed again and again of this renewed good Conſcience,</p>
+               <p>-Either perfect, (not in degrees, but in parts) and conditions of goodneſſe.</p>
+               <p>-Or defective,
+<note place="margin">1 Cor 8.7.</note> failing in ſome condition of
+<pb n="90" facs="tcp:170295:52"/>goodneſſe [weake and apt to be defiled and ſeduced.]</p>
+               <p>The conditions of this goodneſſe are principally two:</p>
+               <p>-One <hi>Formal,</hi> reſpecting its conſtitution.</p>
+               <p>-Another <hi>Effective,</hi> for execution, whereby it is fitted and qualified for its proper acts and uſes. As that Clock may be called <hi>good,</hi> which is made well, and goes well.</p>
+               <p>Now to the conſtitu<g ref="char:EOLhyphen"/>tion and execution of a good Conſcience,
+<note place="margin">Ameſius.</note>
+                  <note place="margin">
+                     <hi>Honeſte bona.</hi> Rom. 14.17. <hi>Facate bona.</hi>
+                  </note> two ſpecialties are required.</p>
+               <p n="1">1. <hi>Integrity</hi> and up<g ref="char:EOLhyphen"/>rightneſſe.</p>
+               <p n="2">2. <hi>Serenity</hi> and peace.</p>
+               <pb n="91" facs="tcp:170295:52"/>
+               <p>And here alſo might be diſcourſed of the ſeveral offices and properties, acts and aſpects of Conſcience upon practice; but that I am in a digreſſion, and muſt return to my point of inſtruction; For the keeping of Conſcience with all keeping, that it may be good.</p>
+               <p>Therefore take we up and contract unto this e<g ref="char:EOLhyphen"/>vangelical good Conſci<g ref="char:EOLhyphen"/>ence. Three things are ne<g ref="char:EOLhyphen"/>ceſſary.</p>
+               <p n="1">1.
+<note place="margin">Rom. 2.15.</note> 
+                  <hi>The light of knowledge -Of God,</hi> his will and rule, both Law and Goſpel; what is good, and bidden us; what bad and for<g ref="char:EOLhyphen"/>bidden us, <hi>-of our ſelves,</hi>
+                  <pb n="92" facs="tcp:170295:53"/>whether we be ſuch as God's rules require, yea or no:</p>
+               <p>Both <hi>David</hi>'s and <hi>Achan</hi>'s Conſcience had this light to walk by;
+<note place="margin">Pſal. 18.23. Joſh. 7.20.</note> ſome knowledge of God and of themſelves; by this light is all the work cut out that Conſcience hath to do: No being or work<g ref="char:EOLhyphen"/>ing for Conſcience, with<g ref="char:EOLhyphen"/>out knowledge of God and our ſelves.</p>
+               <p n="1">1. No work for Con<g ref="char:EOLhyphen"/>ſcience without ſome knowledge of God's re<g ref="char:EOLhyphen"/>vealed will, (the only rule and bond of Con<g ref="char:EOLhyphen"/>ſcience) which makes it to be what it is, and to do what it does: Men
+<pb n="93" facs="tcp:170295:53"/>might ſwear, lye, kill,
+<note place="margin">Rom. 7.7.</note> ſteal, prophane, blaſphem remorſleſly, without this light of knowledge.</p>
+               <p n="2">2. No work for Con<g ref="char:EOLhyphen"/>ſcience without ſome knowledge of our ſelves; for the knowledge of the rule doth but as tell <hi>Nathan</hi>'s tale of two men and a ſheep, without the knowledge of our ſelves, which doth as ſay [Thou art the man] Men might crucifie the Lord of glory,
+<note place="margin">Luke 23.34. 1 Cor. 2.8.</note> and Conſcience ſay and do nothing without this knowledge.</p>
+               <p>O ſay we then with <hi>Solomon</hi> [That the ſoul be without knowledge,
+<note place="margin">Prov 19.2</note> it is not good;] The igno<g ref="char:EOLhyphen"/>rant
+<pb n="94" facs="tcp:170295:54"/>ſoul cannot have a good Conſcience, for if Conſcience be not truly informed and rightly principled, it will be either idle or ill imployed (as working in the dark) either nothing, or all things lawful; working falſly and erroneouſly; And oh!
+<note place="margin">Iſa. 5.20. Act. 26.9. Joh. 16.2.</note> what a potent inſtrument for Satan is an erroneous and miſguided Conſcience? That will make a man even kill his Brother, his Father, nay God's deareſt Servants, and perſwade him that he doth God ſervice.</p>
+               <p>Therefore beg we God the Father of lights,
+<note place="margin">Jam. 1.17.</note> through the true Light,
+<pb n="95" facs="tcp:170295:54"/>to lighten our darkneſſe, &amp; (being our own natural lights are waxed dim,
+<note place="margin">John 1.9.</note> and burn blew) to ſet up another, <hi>The light of his Word;</hi> and another, <hi>The light of his Spirit:</hi> That the candle of the Lord within it may give light enough to ſearch the inward parts of the belly:
+<note place="margin">Prov. 20.27.</note> For the world is fuller of dangerous downfals, than the valley of <hi>Siddim</hi> was full of ſlime-pits,
+<note place="margin">Gen. 14.10.</note> wherein the Kings of <hi>Sodom</hi> and <hi>Gomorah</hi> fled and fell; Here is deſperate fearful going in the dark [not knowing whither he goeth] eſpecially neer ſuch horrible Precipices.
+<note place="margin">John 12.35.</note>
+               </p>
+               <pb n="96" facs="tcp:170295:55"/>
+               <p>Therefore pray, and again I ſay pray for <hi>in<g ref="char:EOLhyphen"/>lightned Conſciences;</hi> for though ſome may go to Hell with it, yet none can go to Heaven without it; therefore labour to get it, and be not without it for a world; beſeech God as he hath given us Con<g ref="char:EOLhyphen"/>ſciences, that we may not want guides; ſo that he would give our con<g ref="char:EOLhyphen"/>ſciences light,
+<note place="margin">Mat. 15.14.</note> that our guides may not want eyes, leſt the blind lead the blind, and both fall into the ditch:
+<note place="margin">Mat. 6.23.</note> For if the light that is in thee be darkneſs, how great is that darkneſſe?</p>
+               <p>Another <hi>ingredient</hi> to this
+<pb n="97" facs="tcp:170295:55"/>evangelical good Conſci<g ref="char:EOLhyphen"/>ence. <hi>The life of new obedi<g ref="char:EOLhyphen"/>ence;</hi> no good Conſcience without univerſal, con<g ref="char:EOLhyphen"/>ſtant &amp; ſincere obedience; knowledge &amp; obedience cannot be ſeparated in a good Conſcience; there<g ref="char:EOLhyphen"/>fore called <hi>The life of obe<g ref="char:EOLhyphen"/>dience:</hi> For what is know<g ref="char:EOLhyphen"/>ledge without obedience, but as a model without a building,
+<note place="margin">Act. 24.16.</note> and a cypher without a figure, which ſtands for nothing? there<g ref="char:EOLhyphen"/>fore the Apoſtle, who is upon ſacred record the pattern of a good Con<g ref="char:EOLhyphen"/>ſcience, made it his dayly exerciſe to have and to hold, and to uſe a good Conſcience in all obedi<g ref="char:EOLhyphen"/>ence;
+<pb n="98" facs="tcp:170295:56"/>the lack whereof (in daring to act againſt God's rule, or without God's warrant) cauſeth [ſhipwrack of Faith,
+<note place="margin">1 Tim. 1.19.</note> and of all good Conſcience;] As in <hi>Hymeneus</hi> and <hi>Alex<g ref="char:EOLhyphen"/>ander.</hi>
+               </p>
+               <p>Who hath more ſcience than the Divel? yet none worſe Conſciences for lack of obedience: And <hi>obedience</hi> in Chriſtian ears ſhould not ſound as <hi>old and legal,</hi>
+                  <note place="margin">Rom. 3.27. 2 Theſ. 1.8.</note> but rather as <hi>new and evangelical:</hi> For there is [a law of Faith] and a vengeance on the [diſobedience to the Goſpel of the Lord Jeſus Chriſt;]
+<note place="margin">Mat. 11.28, 29, 30.</note> yea there is [a yoak of Chriſt] and
+<pb n="99" facs="tcp:170295:56"/>which is more admirable [a yoake that eaſeth: <hi>O mirus reficiendi modus.</hi> But whither run we out into particulars? there is one comprehenſive com<g ref="char:EOLhyphen"/>pendious thing, moſt eminently and tranſcen<g ref="char:EOLhyphen"/>dently neceſſary to an evangelical good Conſci<g ref="char:EOLhyphen"/>ence, as all in all. Namely</p>
+               <p n="3">3. <hi>The Spirit of Faith in the blood of Jeſus:</hi>
+                  <note place="margin">2 Cor. 4.13.</note> 
+                  <hi>No good Conſcience without Faith;</hi> as it ſeems by their faſt frequent conjunction to<g ref="char:EOLhyphen"/>gether,
+<note place="margin">1 Tim. 1.4, 18, 19.</note> ſo obvious in holy Scripture [Faith and a good Conſcience;]
+<note place="margin">1 Tim. 3.9.</note> yet not that poor liveleſſe, fruitleſs faith which may be found in apoſtate men
+<note place="margin">Jam. 2.15.</note>
+                  <pb n="100" facs="tcp:170295:57"/>and Divels,
+<note place="margin">Rom. 1.17. Rom. 5.1. Act. 15.9. 1 John 5.4. Eph. 2.8.</note> who are ſaid [to believe and trem<g ref="char:EOLhyphen"/>ble.]</p>
+               <p>But that Faith which <hi>veriſies</hi> and <hi>juſtifies,</hi> and <hi>purifies,</hi> and <hi>pacifies,</hi> and <hi>conquereth,</hi> and <hi>ſaveth:</hi> This, this is the Faith—</p>
+               <p>For the image of God wherein man was firſt created, was not more neceſſary to the attaining of <hi>a legal good Conſcience,</hi> than this Faith ſo inve<g ref="char:EOLhyphen"/>ſted, with ſuch gracious properties, is to the ac<g ref="char:EOLhyphen"/>compliſhing of <hi>an evan<g ref="char:EOLhyphen"/>gelical.</hi> For what availeth the knowledge of Law and Goſpel, and ſo much Faith as to give credence to the truth of the pre<g ref="char:EOLhyphen"/>cepts
+<pb n="101" facs="tcp:170295:57"/>and promiſes, and threats, without that perſonal, peculiar, proper Faith, whereby Chriſt is applied in particular, with all his benefits to each believing ſoul.</p>
+               <p>So that without Faith no evangelical good Con<g ref="char:EOLhyphen"/>ſcience. Whence here is the difference betwixt the compleatneſſe of a legal and evangelical good Conſcience:</p>
+               <p>That requireth many acts to perfect it,
+<note place="margin">Deut. 26.27. Jam. 2.10.</note> one ſinful commiſſion or omiſſion is enough to wrack and ſpoyl it.</p>
+               <p>This requires but one only to compleat it; one act of believing uniteth
+<pb n="102" facs="tcp:170295:58"/>to Chriſt, by which union man is made partaker of the all-ſufficient obedi<g ref="char:EOLhyphen"/>ence of Chriſt, which is the ſole and abſolute object matter of an evan<g ref="char:EOLhyphen"/>gelical good Conſcience: For as one act of <hi>Adam</hi> brake the whole Deca<g ref="char:EOLhyphen"/>logue; ſo one act of faith in Chriſt, will perfectly fulfil it.</p>
+               <p>But not the habit with<g ref="char:EOLhyphen"/>out the act, nor the act without the object, maketh an evangelical good Conſcience, and juſtifies: For the whole obedience of Chriſt, typified by the whole Lamb to be eaten and accounted for,
+<note place="margin">Exod. 12.4, 10.</note> is it that
+<pb n="103" facs="tcp:170295:58"/>ſatisfies the juſtice of the Law, which (when by faith we are conjoyned to him) is made all ours?</p>
+               <p>And therefore <hi>Faith</hi> and <hi>Chriſt's blood,</hi>
+                  <note place="margin">Chriſt's Blood.</note> are here conjoyned in one, as to an evangelical good Con<g ref="char:EOLhyphen"/>ſcience. -As no good Conſcience without faith: So <hi>No good Conſcience without Chriſt's blood.</hi> A good Conſcience is moſt beholding unto the blood of Chriſt for its goodneſs, as the only price of it, the material and meritorious cauſe of it; yea and of our redemption, the graces fore-mentioned are the means of appli<g ref="char:EOLhyphen"/>cation.</p>
+               <pb n="104" facs="tcp:170295:59"/>
+               <p>There ſticketh to the Conſcience of every man naturally a great deal of guile and filth, which defileth and obſcureth, and hardens it; and it hath contracted ſo much guilt and foulneſſe, that there is no room for peace, till it be refined and cleanſed,
+<note place="margin">Heb. 9.14. Act. 15.9. Rom. 5.1.</note> and molli<g ref="char:EOLhyphen"/>fied; which can no way be done without ſaith in Chriſt's blood;
+<note place="margin">Heb. 9.18, 22.</note> which is all in all. For as in the old Law, all dedications and purgings, and re<g ref="char:EOLhyphen"/>miſſions were by blood: So in the new Law of Faith, in the Goſpel, no good done about Conſci<g ref="char:EOLhyphen"/>ence without blood: It
+<pb n="105" facs="tcp:170295:59"/>is <hi>Purged,</hi> &amp; <hi>Purified,</hi> &amp; <hi>Pa<g ref="char:EOLhyphen"/>cified;</hi> &amp; all by this blood.</p>
+               <p>Conſci<g ref="char:EOLhyphen"/>ence is
+<list>
+                     <item>1.
+<note place="margin">1 Joh. 1.7.</note> 
+                        <hi>Purged and Cleanſed.</hi>-From the corruption of ſin, by the efficacy of Chriſt's blood— From the guilt of ſin, by the merit of Chriſts blood.
+<note place="margin">2 Tim. 1.3.</note>
+                     </item>
+                     <item>2. <hi>Purified and Sanctified</hi> from the ſtain of ſin,
+<note place="margin">1 Pet. 3.21.</note> by the purity of Chriſts blood</item>
+                     <item>3. <hi>Pacified</hi> from the unquietneſs of ſin,
+<note place="margin">Col. 1.20.</note> by the attonement of Chriſt's blood.</item>
+                  </list>
+               </p>
+               <pb n="106" facs="tcp:170295:60"/>
+               <p>In ſin unrepented,
+<note place="margin">Iſa. 57.20, 21.</note> un<g ref="char:EOLhyphen"/>pardoned, unpurged, un<g ref="char:EOLhyphen"/>reformed, there is no peace, but like the troub<g ref="char:EOLhyphen"/>led Sea, it cannot reſt: A good Conſcience may be like the troubled Air, ſometime diſquieted; but when the wind is ſtill, the Air can reſt; when the occaſion is over, the Conſcience is quiet: But a bad Conſcience is like the troubled Sea, that cannot reſt, through the inconſtancy of its own natural motions, fluxing and refluxing, and the reſtleſneſſe of its own waves, as well as the boyſterouſneſſe of exter<g ref="char:EOLhyphen"/>nal ſtorms and winds, ſo
+<pb n="107" facs="tcp:170295:60"/>that the Sea remains un<g ref="char:EOLhyphen"/>quiet, when the ſtorm is ended; ſo do evil mens bad Conſciences, when the outward occaſion of affliction is ceaſed, and that trouble ended, yet they have that with<g ref="char:EOLhyphen"/>in which denies their reſt.</p>
+               <p>Such indeed is the guilt and filth of ſin to the Conſcience, as <hi>Jonah</hi> to the Mariners, and <hi>Achan</hi> to the Souldiers, (a dangerous and accur<g ref="char:EOLhyphen"/>ſed thing;) or like an arrow-head, and corrupt coar in a wound, no ſafety or bleſſing, eaſe or healing, till out and gone.
+<pb n="108" facs="tcp:170295:61"/>And this can never be done but by the blood of Jeſus:
+<note place="margin">Heb. 12.24.</note> Oh that purg<g ref="char:EOLhyphen"/>ing, purifying, pacifying blood of his <hi>[that blood of ſprinkling;]</hi> ſo called in alluſion to that blood in the baſon of the Paſſe<g ref="char:EOLhyphen"/>over,
+<note place="margin">Exod. 12.22.</note> wherewith the Lintel and the two ſide<g ref="char:EOLhyphen"/>poſts were ſprinkled, and whereby this blood was prefigured: Now although about the two ſide-poſts, ſome Inter<g ref="char:EOLhyphen"/>preters are but little di<g ref="char:EOLhyphen"/>vided; yet about the tranſome or lintel leſſe, moſt applying it to Con<g ref="char:EOLhyphen"/>ſcience; For the reſem<g ref="char:EOLhyphen"/>blance, in ancient build<g ref="char:EOLhyphen"/>ings
+<pb n="109" facs="tcp:170295:61"/>of thoſe Countreys, contriving in or juſt over the lintel, a place to look out at, for the diſcovery of all that knock at door. And ſuch a thing indeed is Conſcience, through which we ſhould look out upon all occurrences and occaſions, before we admit or open: And this Lintel we muſt ſtrike with the bunch of Hyſop dipped in the blood of the Baſon; Conſcience muſt be ſtruck with faith in Chriſt's blood, the blood of ſprinkling, [which ſpeaketh better things then that of <hi>Abel</hi>] —Better to God—and
+<pb n="110" facs="tcp:170295:62"/>better to Conſcience;
+<note place="margin">Mark 4.39.</note> and the voice which it ſpeaks is [peace and be ſtill;] and that not becauſe blood, but becauſe <hi>his blood,</hi> who can quiet Conſciences as well as Seas and Winds, and that not without faith; for no goodneſſe or purity or peace to the Conſci<g ref="char:EOLhyphen"/>ence without blood; and no ſuch blood for the Conſcience without faith: Therefore the unbelie<g ref="char:EOLhyphen"/>ving Conſcience, is a de<g ref="char:EOLhyphen"/>filed Conſcience; and the defiled Conſcience is a diſturbed Conſcience; and the diſturbed Con<g ref="char:EOLhyphen"/>ſcience, no compleat good
+<pb n="111" facs="tcp:170295:62"/>Conſcience;
+<note place="margin">Tit. 1.15.</note> [defiled and unbelieving] are in conjunction, by the holy Ghoſt.</p>
+               <p>Therefore as we love to have and to hold, and to uſe a good Conſcience, in all our beggings beg we this faith of God in this blood: For what can a man do with an old natural Conſcience, without a new inlight<g ref="char:EOLhyphen"/>ned one? And what with an inlightned one, with<g ref="char:EOLhyphen"/>out a purified and paci<g ref="char:EOLhyphen"/>fied one, without a ſan<g ref="char:EOLhyphen"/>ctified and ſaved one, by the blood of Jeſus? O plead this blood, but firſt beg it with more
+<pb n="112" facs="tcp:170295:63"/>then <hi>Rachell's</hi> earneſtneſſe for children,
+<note place="margin">Gen. 30.1.</note> [Lord give it me or elſe I die.]</p>
+               <p>And when we have gotten this good enlight<g ref="char:EOLhyphen"/>ned, purified and pacified Conſcience, we were beſt keep it with all diligence; keep the peace of it, and not willingly offend it for a thouſand worlds: And that upon theſe conſide<g ref="char:EOLhyphen"/>rations;</p>
+               <p n="1">1. That to ſin againſt the cry of an illightned Conſcience,
+<note place="margin">Iſa. 65.3. Ezek. 2.4.</note> is [to pro<g ref="char:EOLhyphen"/>voke God to his face] (like impudent children) in the holy Prophets ac<g ref="char:EOLhyphen"/>count; for an illuminated Conſcience, is as the face
+<pb n="113" facs="tcp:170295:63"/>of God in the ſoul of man, where a man even ſees God looking upon him, commanding or for<g ref="char:EOLhyphen"/>bidding.</p>
+               <p n="2">2. That to ſin againſt the cry of an illightned Conſcience, is to draw upon a mans ſoul the horrible guilt of <hi>Herod</hi>'s aggravation and huge addition unto all his ſins and evils,
+<note place="margin">Luke 3.20.</note> [He added yet this above all, that he ſhut up <hi>John</hi> in priſon;]
+<note place="margin">John 5.35.</note> [<hi>John</hi> was a burning and a ſhining light:] And ſuch is an illuminated Conſcience; therefore to go againſt the burning and ſhining light thereof,
+<pb n="114" facs="tcp:170295:64"/>is to add yet this above all other evils, to ſhut up our <hi>John</hi> in priſon.</p>
+               <p n="3">3. That to ſin againſt the cry of an illightned Conſcience, offends Gods deputy in the ſoul, and provokes him oft times to ſtab the heart, dead all duty, diſcountenance faith and hope, and diſ<g ref="char:EOLhyphen"/>courage confidence in prayer, [If our heart condemn us not,
+<note place="margin">1 John 3.20, 21. Mat. 5.23.</note> then have we confidence to<g ref="char:EOLhyphen"/>wards God, and what we aſk, we receive, &amp;c.] But if it doth condemn us— we may hold our peace; for it is of greater dan<g ref="char:EOLhyphen"/>ger then in caſe of an
+<pb n="115" facs="tcp:170295:64"/>offended and irrecon<g ref="char:EOLhyphen"/>ciled brother; [If thou bring thy prayer into God's preſence, and there remembreſt that thine offended irreconciled Conſcience hath ought againſt thee, firſt go and (by faith in Chriſt's blood, and reſolution of new obedience) be re<g ref="char:EOLhyphen"/>conciled unto thy Con<g ref="char:EOLhyphen"/>ſcience, and then come and pray;] for an irre<g ref="char:EOLhyphen"/>conciled Conſcience doth ever way-lay, undermine and enter caveats againſt prayers;
+<note place="margin">Pſal. 66.18.</note> no offering will be accepted till Conſci<g ref="char:EOLhyphen"/>ence be ſatisfied; be it for our ſelves or others,
+<pb n="116" facs="tcp:170295:65"/>bad Conſciences much hinder prayer; [If I have a bad Conſcience, God will not heare my prayers] ſaith <hi>David;</hi> [ye have good Conſciences,
+<note place="margin">Heb. 13.18.</note> therefore God will hear your prayers for us] ſaid <hi>Paul.</hi>
+               </p>
+               <p n="4">4. That Conſcience is ever to abide and dwell with us, never to leave a man; therefore to be kept with all diligence, that it may be good and void of offence: Two that were born and bred, and muſt inſeparably live together, ſhould take heed of offending one the other; there is a parting
+<pb n="117" facs="tcp:170295:65"/>time for all but a man and his Conſcience; there are none on Earth with whom we ſhall always live, without any ſepara<g ref="char:EOLhyphen"/>tion but our Conſciences; not always with Huſ<g ref="char:EOLhyphen"/>bands or Wives, with Parents or Children, with Maſters or Servants, &amp;c. But with our Conſci<g ref="char:EOLhyphen"/>ences ever; therefore make you much of it.</p>
+               <p>In one of the Fathers we read a Parable to this purpoſe,
+<note place="margin">Greg. Mor.</note> of a Man that had three friends, two of whom he loved very intirely, and the third but indifferently; this Man being called in queſtion
+<pb n="118" facs="tcp:170295:66"/>for his life, craved aid of his friends; — The firſt would only accompany him ſome part of the way and bring him going, and no more; — The ſecond would onely lend him ſome means, and accom<g ref="char:EOLhyphen"/>modate him for his jour<g ref="char:EOLhyphen"/>ney, and no more; —But the third, whom he leaſt expected and regarded, would go all the way, abide and appeare ever with him, ſpeak and plead for him, and never leave him.</p>
+               <p>Now we are the man; Fleſh, World and Con<g ref="char:EOLhyphen"/>ſcience, are our three friends:</p>
+               <pb n="119" facs="tcp:170295:66"/>
+               <p>And when death ſhall ſummon us to Judge<g ref="char:EOLhyphen"/>ment,</p>
+               <p>—Our fleſhly friends will bring us to our graves and decent buri<g ref="char:EOLhyphen"/>als, ſo far going, and there leave us.</p>
+               <p>—Our worldly goods may help us to Shrouds, Coffins, Tombs, (and at moſt) Epitaphs, and there leave us.</p>
+               <p>—But well fare a good Conſcience; this will live and die with us, or rather live when we are dead, awaiting our riſing again, to appear with us, and ſtand for us before God at his judgement-ſeat.</p>
+               <pb n="120" facs="tcp:170295:67"/>
+               <p>And when neither of our other friends can do us good, then a good Con<g ref="char:EOLhyphen"/>ſcience will ſtand us in high and eternal ſtead.</p>
+               <epigraph>
+                  <q>
+                     <hi>Conſcience, I ſay.</hi>
+                  </q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
